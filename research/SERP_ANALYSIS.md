@@ -125,7 +125,7 @@ Do not mass-produce thin neighborhood doorway pages. A location page earns its p
 
 ## Five strongest competitors (provisional)
 
-These are **strategic threat archetypes**, not verified rank winners:
+These are **low-confidence strategic threat archetypes**, not verified rank winners and not current competitor rankings. Their order is unsupported by dated live evidence:
 
 1. **Floorcrafters Wood Interiors** — specialist relevance and established-sounding craft positioning.
 2. **NOLA Hardwood Floors** — exact-match local/specialist naming likely creates recall and query relevance.
@@ -136,6 +136,8 @@ These are **strategic threat archetypes**, not verified rank winners:
 Live SERP, review, website, and social evidence must confirm or reorder this list.
 
 ## Five competitors most likely to block growth (provisional)
+
+This is a low-confidence inference requiring the same validation; it is not a factual growth-blocker ranking.
 
 1. **NOLA Hardwood Floors:** competes for the same local specialist mental category.
 2. **Floorcrafters Wood Interiors:** likely overlaps refinishing/installation and craftsmanship demand.

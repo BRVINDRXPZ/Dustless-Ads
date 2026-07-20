@@ -27,5 +27,9 @@ Use this file to track questions that require owner clarification or approval.
 21. Approve or revise the proposed residential, contractor, commercial, and historic positioning gaps in `research/MARKET_WHITESPACE.md` before any public use.
 22. Provide or approve a safe method for a dated live SERP, Maps, website, review, ad, and social baseline; this Phase 2 environment could not access public web surfaces.
 23. Confirm a content-capture owner, realistic weekly capture/editing capacity, and permission workflow.
+24. Provide the first owner-collected evidence batch using `research/OWNER_RESEARCH_INSTRUCTIONS.md`: Priority 1 competitors, the mapped refinishing/restoration/installation queries, New Orleans and Metairie contexts, desktop and mobile, with dates and screenshots.
+25. Select the Northshore city/location to use for the consistent third-location SERP and Maps baseline.
+26. Identify who collected each evidence batch (initials are sufficient) and confirm that screenshots have been checked for customer/private data before repository upload.
+27. Confirm whether any lawful, owner-controlled Search Console, Google Business Profile, analytics, review, or social exports can be supplied for NOLA Dustless; provide only sanitized exports and never credentials.
 
 Do not answer these questions yourself unless the repository contains verified information.

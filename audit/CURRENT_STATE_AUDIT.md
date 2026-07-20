@@ -16,7 +16,7 @@ NOLA Dustless has a clear specialist ambition and plausible differentiator set, 
 
 ## Current-state scorecard
 
-Scores are readiness judgments from repository evidence, not external performance measurements.
+Scores are **provisional internal triage judgments** from repository context, not measured performance, verified capability, or competitor evidence. They must not be used as factual baselines.
 
 | Area | Score / 10 | Status | Evidence / gap | Priority |
 |---|---:|---|---|---:|

@@ -3,6 +3,8 @@
 **Date:** 2026-07-20  
 **Nature of findings:** strategic inferences pending live-market validation unless labeled otherwise.
 
+**Phase 2B evidence notice:** no competitor weakness, rank, review, Search/Maps visibility, advertising, social activity, service area, offer, or positioning claim in this file is a verified current market fact. The numbered rankings and scores below are provisional planning judgments. Validate them through `EVIDENCE_REGISTER.csv` and the capture templates before final strategy or external use.
+
 ## Five weakest areas across the local market
 
 These are hypotheses to validate against the dated competitor sample—not claims that every competitor is weak.
@@ -64,7 +66,7 @@ Create the strongest truthful service × geography evidence graph: distinct page
 
 ## Ruthless opportunity ranking
 
-Scoring: 10 is favorable/high for revenue, speed, competitive weakness, defensibility, and priority. For **evidence required** and **operational difficulty**, 10 means a heavier requirement/higher difficulty. Overall priority weighs revenue and strategic leverage against burden; it is not a mathematical average.
+**Provisional hypothesis scoring—not measured market performance.** A score of 10 is a planning judgment of favorable/high revenue, speed, hypothesized competitive weakness, defensibility, and priority. For **evidence required** and **operational difficulty**, 10 means a heavier estimated requirement/higher estimated difficulty. Overall priority weighs proposed revenue and strategic leverage against burden; it is not a mathematical average. Market weakness, revenue potential, and rank must be rescored after evidence collection.
 
 | Rank | Opportunity | Revenue | Speed | Competitive weakness | Defensibility | Evidence required | Operational difficulty | Overall priority |
 |---:|---|---:|---:|---:|---:|---:|---:|---:|

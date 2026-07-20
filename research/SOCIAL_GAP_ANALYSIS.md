@@ -3,6 +3,8 @@
 **Date:** 2026-07-20  
 **Evidence boundary:** live Instagram, Facebook, TikTok, YouTube, and LinkedIn pages could not be accessed. Platform presence, cadence, follower counts, and engagement are therefore **not verified** for any competitor.
 
+**Phase 2B label:** “gap,” platform roles, pillars, and cadence in this file are proposals/inferences. None demonstrates a current competitor weakness or current NOLA posting capacity.
+
 ## What can be concluded safely
 
 - **Verified fact:** NOLA Dustless has an Instagram URL documented in `BUSINESS_CONTEXT.md`.
