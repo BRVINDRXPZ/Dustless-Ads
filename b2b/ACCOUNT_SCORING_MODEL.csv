@@ -1,0 +1,16 @@
+Criterion,Provisional Weight Percent,Score 1 Definition,Score 3 Definition,Score 5 Definition,Evidence Required,Weighted Score Formula
+Project frequency,10,poor/unknown,mixed,strong,Higher documented recurrence,=(Score/5)*10
+Hardwood relevance,12,poor/unknown,mixed,strong,Higher direct hardwood need,=(Score/5)*12
+Average opportunity size,7,poor/unknown,mixed,strong,Category only; verified/estimated label,=(Score/5)*7
+Geographic fit,8,poor/unknown,mixed,strong,Approved service area and travel fit,=(Score/5)*8
+Relationship access,6,poor/unknown,mixed,strong,Permissioned warm access/public role,=(Score/5)*6
+Commercial credibility,5,poor/unknown,mixed,strong,Evidence account executes relevant work,=(Score/5)*5
+Payment risk,10,poor/unknown,mixed,strong,Reverse score: 5=low risk,=(Score/5)*10
+Operational fit,10,poor/unknown,mixed,strong,Scope/schedule/process fit,=(Score/5)*10
+Portfolio value,5,poor/unknown,mixed,strong,Permissioned proof potential,=(Score/5)*5
+Referral potential,5,poor/unknown,mixed,strong,Relevant attributable referrals,=(Score/5)*5
+Historic-restoration fit,4,poor/unknown,mixed,strong,Relevant only,=(Score/5)*4
+Commercial fit,4,poor/unknown,mixed,strong,Relevant only,=(Score/5)*4
+Hospitality fit,3,poor/unknown,mixed,strong,Relevant only,=(Score/5)*3
+Capacity requirements,6,poor/unknown,mixed,strong,Reverse score: 5=manageable,=(Score/5)*6
+Strategic value,5,poor/unknown,mixed,strong,Long-term fit; avoid double counting,=(Score/5)*5

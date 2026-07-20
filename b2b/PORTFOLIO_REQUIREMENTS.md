@@ -1,0 +1,19 @@
+# Portfolio Requirements
+
+> **Internal draft — owner approval required.** This is an operating specification, not authorization to contact, publish, connect a CRM, promise capacity, or make a public claim. Bracketed fields and `TBD—owner verification required` are not public copy. Use only public business contact data or permissioned records.
+
+## Status and interpretation
+Counts below are **internal recommendations**, not industry facts or claims. Quality/relevance can outweigh count; owner may revise after buyer feedback. A project does not count without verified scope and media/reference permissions.
+| Segment | Proposed minimum | Photos | Narrative/reference/permission | Documentation | Missing proof | Readiness |
+|---|---|---|---|---|---|---|
+| Builders | 2–3 varied, permissioned examples | Before/context, process/details, finished wide/detail; accurate captions | Scope/role/constraints/result; reference where permissioned; signed rights | Intake, condition/change/closeout artifacts appropriate to scope | Audit required | Not ready until audit |
+| Remodelers | 2–3 varied, permissioned examples | Before/context, process/details, finished wide/detail; accurate captions | Scope/role/constraints/result; reference where permissioned; signed rights | Intake, condition/change/closeout artifacts appropriate to scope | Audit required | Not ready until audit |
+| Designers | 2–3 varied, permissioned examples | Before/context, process/details, finished wide/detail; accurate captions | Scope/role/constraints/result; reference where permissioned; signed rights | Intake, condition/change/closeout artifacts appropriate to scope | Audit required | Not ready until audit |
+| Historic restoration | 1–3 directly relevant, permissioned examples | Before/context, process/details, finished wide/detail; accurate captions | Scope/role/constraints/result; reference where permissioned; signed rights | Intake, condition/change/closeout artifacts appropriate to scope | Audit required | Not ready until audit |
+| Hotels | 1–3 directly relevant, permissioned examples | Before/context, process/details, finished wide/detail; accurate captions | Scope/role/constraints/result; reference where permissioned; signed rights | Intake, condition/change/closeout artifacts appropriate to scope | Audit required | Not ready until audit |
+| Restaurants | 1–3 directly relevant, permissioned examples | Before/context, process/details, finished wide/detail; accurate captions | Scope/role/constraints/result; reference where permissioned; signed rights | Intake, condition/change/closeout artifacts appropriate to scope | Audit required | Not ready until audit |
+| Churches | 1–3 directly relevant, permissioned examples | Before/context, process/details, finished wide/detail; accurate captions | Scope/role/constraints/result; reference where permissioned; signed rights | Intake, condition/change/closeout artifacts appropriate to scope | Audit required | Not ready until audit |
+| Property managers | 1–3 directly relevant, permissioned examples | Before/context, process/details, finished wide/detail; accurate captions | Scope/role/constraints/result; reference where permissioned; signed rights | Intake, condition/change/closeout artifacts appropriate to scope | Audit required | Not ready until audit |
+| Commercial GCs | 1–3 directly relevant, permissioned examples | Before/context, process/details, finished wide/detail; accurate captions | Scope/role/constraints/result; reference where permissioned; signed rights | Intake, condition/change/closeout artifacts appropriate to scope | Audit required | Not ready until audit |
+## Universal gate
+Show role and limitations honestly; remove private addresses; do not show unsafe practices; verify species/products/results; keep a segment-specific short set rather than an indiscriminate gallery.
