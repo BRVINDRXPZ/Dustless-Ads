@@ -1,0 +1,14 @@
+Code,Description,Human review required,Status
+price,Price,yes,Proposed—owner approval required
+timing,Timing,yes,Proposed—owner approval required
+competitor_selected,Competitor Selected,yes,Proposed—owner approval required
+no_decision,No Decision,yes,Proposed—owner approval required
+scope_changed,Scope Changed,yes,Proposed—owner approval required
+customer_withdrew,Customer Withdrew,yes,Proposed—owner approval required
+capacity,Capacity,yes,Proposed—owner approval required
+service_area,Service Area,yes,Proposed—owner approval required
+payment_terms,Payment Terms,yes,Proposed—owner approval required
+contract_requirements,Contract Requirements,yes,Proposed—owner approval required
+unable_to_contact,Unable To Contact,yes,Proposed—owner approval required
+duplicate,Duplicate,yes,Proposed—owner approval required
+other_owner_review,Other Owner Review,yes,Proposed—owner approval required

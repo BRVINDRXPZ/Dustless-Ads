@@ -1,0 +1,18 @@
+Metric,KPI level,Formula,Unit,Source,Cadence,Caveat
+Revenue booked,Level 1,sum approved booked_revenue,USD,project,monthly,Do not equate with cash
+Gross profit booked,Level 1,booked_revenue - approved estimated direct cost,USD,project/job cost,monthly,Label booked/estimated; never mix actual
+Gross profit actual,Level 1,recognized_revenue - actual attributable direct cost,USD,finance/job cost,monthly,Pending until costs complete
+Jobs won,Level 1,count distinct project_id linked to Won/Awarded opportunity,count,CRM,weekly,Deduplicate
+CAC,Level 1,attributable marketing cost / new customers won,USD/customer,cost+CRM,monthly,N/A if denominator zero
+GP ROMS,Level 1,attributed actual gross profit / attributable marketing cost,ratio,finance+cost,monthly,N/A if zero cost
+Qualified leads,Level 2,count distinct lead_id where qualified_status=qualified,count,CRM,weekly,Approved qualification
+Scheduled estimates,Level 2,count distinct estimate_id with scheduled_at,count,CRM,weekly,Not requests
+Close rate,Level 2,won opportunities / eligible closed opportunities,percent,CRM,monthly,Show eligibility/window
+Pipeline value,Level 2,sum open opportunity amount,USD,CRM,weekly,Exclude won/lost
+Weighted pipeline,Level 2,sum amount * approved stage probability,USD,CRM,weekly,Unavailable until probabilities calibrated
+Leads,Level 3,count distinct valid non-spam lead_id,count,CRM,weekly,Show unknown source
+CPQL,Level 3,marketing cost / qualified leads,USD/lead,cost+CRM,monthly,N/A zero denominator
+Lead response time,Level 4,median(first human response - received_at),duration,CRM/activity,daily,Business-hours version separate
+ROAS,Level 1,attributed revenue / ad cost,ratio,finance+ads,monthly,Not profit
+Average job value,Level 1,booked revenue / jobs won,USD/job,CRM,monthly,N/A zero wins
+Missed-call rate,Level 4,missed eligible calls / eligible inbound calls,percent,call system,daily,Requires integration validation

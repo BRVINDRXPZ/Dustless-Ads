@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-07-20 — Phase 9 marketing command center and CRM architecture
+
+- Added governed dashboard architecture, KPI/data dictionaries, attribution, finance reconciliations, source/channel/operations view specifications, alerts, security, recovery, QA, roadmap and owner decision queue.
+- Added canonical CRM entities and schemas, complete residential/B2B stage controls, qualification/routing, deduplication, retention, access, import/export, provisional vendor scorecard and migration plan.
+- Added inactive automation strategy, catalog, trigger map, approval/failure/handoff controls and process roadmaps.
+- Added dependency-free local dashboard prototype using prominently disclosed synthetic data, filtering, cards, funnel, tables, reset/export and automated validation.
+- Updated assumptions, decisions, owner questions and next actions. No account was connected; no real data, credentials, communications, deployment, spend, upload or activation occurred.
+
 ## 2026-07-20 — Phase 8 B2B acquisition system
 
 - Added the complete `b2b/` contractor, commercial, hospitality, institutional, specifier and referral acquisition operating system: profiles, segmentation, scoring, value propositions, proof-gated capability drafts, partner/bid/site/vendor workflows, restrained outreach libraries, follow-up/reactivation, account management, pipeline registers, case/portfolio/content/page requirements, metrics and 30/90-day plans.

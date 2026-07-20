@@ -95,3 +95,15 @@ Do not answer these questions yourself unless the repository contains verified i
 85. Select the secure system of record and owners for accounts, opportunities, activities, documents and accounting reconciliation; approve field definitions, access, retention and migration. No CRM is connected in Phase 8.
 86. Define owner-approved probability assumptions, revenue booking rule, gross-margin access/calculation, attribution window, decided-bid cohort and commercial pipeline target before weighted pipeline or coverage is reported.
 87. Confirm whether any referral fee, gift, reciprocal lead, supplier benefit or co-marketing arrangement is permitted, with legal review, disclosure, conflict and spend boundaries before it is offered.
+88. Select the interim Phase A lead register and long-term CRM evaluation owner; approve access, data ownership, backup, export, mobile and migration requirements.
+89. Define booked revenue, recognized revenue, deposits, retainage, refunds, change orders, direct job costs, gross profit and period-close approval with the business accountant or qualified finance reviewer.
+90. Assign accountable owners for lead lifecycle, source/campaign data, project status, finance reconciliation, data stewardship, analytics administration and automation approval.
+91. Approve normalized lead sources, qualification/disqualification/lost reasons, residential and B2B stage definitions, maximum idle periods and reopening rules.
+92. Approve lead-response hours, first-human-response definition, missed-call ownership, routing fallback and escalation thresholds; automated acknowledgements will not count as human response.
+93. Decide the CRM category, call-tracking vendor, website platform/form backend, estimate scheduling process and analytics system ownership after current feature/security/pricing validation.
+94. Approve the primary-source attribution default, referral rules, offline evidence hierarchy, conflict resolution and Unknown-source correction workflow.
+95. Approve data retention, consent, role access, backup/recovery objectives, incident ownership and whether any real internal extracts may be processed outside Git.
+96. Approve thresholds for alerts, anomalies, stale opportunities, high-value commercial inquiries, margin variance, payment delay and service-area leakage; none are active.
+97. Approve each customer-facing or external automation separately, including content, consent, timing, recipient, suppression, failure fallback, audit retention and kill switch.
+98. Confirm current source availability and authorized read-only access path for Ads, GBP, Search Console, analytics, social, review, call, CRM, invoicing/payment and job-cost records; never provide credentials in Git.
+99. Approve the CRM scorecard weights and commission dated verification of current features, pricing, security, API/export and contract terms before selecting a vendor.

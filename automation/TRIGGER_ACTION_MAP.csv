@@ -1,0 +1,13 @@
+Automation ID,Trigger entity/event,Condition check,Action type,Approval gate,Idempotency key,Failure queue
+AUT-001,valid local form import,fields present,normalize and store,Owner if customer-facing/high risk,AUT-001+entity_id+event_version,manual_automation_review
+AUT-002,new valid lead,not duplicate/spam,internal task,Owner if customer-facing/high risk,AUT-002+entity_id+event_version,manual_automation_review
+AUT-003,new valid lead,consent/channel approved,send approved acknowledgement,Owner if customer-facing/high risk,AUT-003+entity_id+event_version,manual_automation_review
+AUT-004,estimate incomplete,approved SLA,internal reminder,Owner if customer-facing/high risk,AUT-004+entity_id+event_version,manual_automation_review
+AUT-005,proposal sent,approved timing/consent,approved customer message,Owner if customer-facing/high risk,AUT-005+entity_id+event_version,manual_automation_review
+AUT-006,completed/paid project,no open complaint; owner rules,flag eligible,Owner if customer-facing/high risk,AUT-006+entity_id+event_version,manual_automation_review
+AUT-007,approved eligible flag,consent and owner approval,approved request,Owner if customer-facing/high risk,AUT-007+entity_id+event_version,manual_automation_review
+AUT-008,idle beyond approved SLA,open opportunity,internal alert,Owner if customer-facing/high risk,AUT-008+entity_id+event_version,manual_automation_review
+AUT-009,approved schedule,sources fresh/valid,generate draft report,Owner if customer-facing/high risk,AUT-009+entity_id+event_version,manual_automation_review
+AUT-010,new import/schedule,schema available,validate/quarantine,Owner if customer-facing/high risk,AUT-010+entity_id+event_version,manual_automation_review
+AUT-011,approved stage/task,relationship/consent reviewed,approved outreach,Owner if customer-facing/high risk,AUT-011+entity_id+event_version,manual_automation_review
+AUT-012,reconciled outcome,consent/platform policy approved,create review-only local file,Owner if customer-facing/high risk,AUT-012+entity_id+event_version,manual_automation_review

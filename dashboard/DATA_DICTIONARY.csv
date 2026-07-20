@@ -1,0 +1,22 @@
+Entity,Field,Type,Required,Owner,Definition/validation
+contact,contact_id,string,yes,CRM owner,Immutable unique ID
+lead,lead_id,string,yes,Sales owner,Immutable unique ID
+lead,received_at,datetime,yes,Capture system,ISO 8601 with offset
+lead,segment,enum,yes,Sales owner,residential|contractor|commercial|referral|past_customer|partner
+lead,source,enum,yes,Marketing ops,Normalized source list; Unknown permitted
+lead,campaign_id,string,no,Marketing ops,FK when known
+lead,stage,enum,yes,Sales owner,Valid CRM stage
+lead,qualified_status,enum,yes,Sales owner,pending|qualified|disqualified
+lead,owner_id,string,yes,Sales manager,Assigned internal user
+lead,first_response_at,datetime,no,Sales owner,Required once contacted
+opportunity,opportunity_id,string,yes,Sales owner,Immutable
+opportunity,amount,currency,no,Sales owner,Proposal/pipeline value; nonnegative
+project,project_id,string,yes,Operations,Won work identifier
+project,status,enum,yes,Operations,won|active|completed|lost|cancelled
+project,booked_revenue,currency,no,Finance,Approved contract/change-order value
+project,recognized_revenue,currency,no,Finance,Per approved accounting treatment
+project,actual_direct_cost,currency,no,Finance,Approved job costs
+project,gross_profit,currency,no,Finance,recognized revenue minus actual direct cost
+campaign,marketing_cost,currency,no,Marketing ops,Platform invoice/export; nonnegative
+activity,activity_id,string,yes,Record creator,Calls/forms/B2B actions
+experiment,experiment_id,string,yes,Marketing owner,Immutable test ID

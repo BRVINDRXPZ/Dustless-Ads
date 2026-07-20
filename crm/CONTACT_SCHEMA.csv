@@ -1,0 +1,10 @@
+Field,Type,Required,Validation/definition
+contact_id,string,yes,unique immutable
+account_id,string,no,valid FK
+contact_type,enum,yes,approved contact type
+first_name,string,yes,restricted PII
+last_name,string,yes,restricted PII
+email,email,no,syntax; restricted
+phone,phone,no,E.164; restricted
+consent_status,enum,yes,unknown|granted|denied|not_applicable
+created_at,datetime,yes,ISO 8601

@@ -1,0 +1,12 @@
+Field,Type,Required,Validation/definition
+project_id,string,yes,unique
+opportunity_id,string,yes,won/awarded FK
+account_id,string,yes,FK
+project_status,enum,yes,won|active|completed|lost|cancelled
+booked_revenue,currency,no,finance approved
+recognized_revenue,currency,no,finance approved
+actual_direct_cost,currency,no,finance approved
+gross_profit,currency,no,calculated
+start_date,date,no,ISO date
+completion_date,date,no,ISO date
+finance_status,enum,yes,pending|reconciled|exception
