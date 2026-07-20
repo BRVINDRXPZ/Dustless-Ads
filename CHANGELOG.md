@@ -2,6 +2,26 @@
 
 All notable repository changes are documented here.
 
+## 2026-07-20 — Phase 3: Brand Positioning and Offer Architecture
+
+### Added
+
+- Proof-led brand position, messaging hierarchy, 13 audience personas, brand voice, claims/proof policy, objection framework, and message-testing plan.
+- Fourteen value-based offer specifications plus a structured offer matrix.
+- Positioning scorecard and 26 scored tagline/campaign-platform options, while preserving the current tagline pending owner decision.
+
+### Updated
+
+- Expanded assumptions and decisions with the Phase 3 internal recommendation, offer principles, dust-language rule, and publication boundary.
+- Added owner decisions required for positioning, tagline testing, offers, product/process facts, B2B readiness, claim governance, and disqualification rules.
+- Advanced next actions to Phase 3 owner review, proof registration, offer operations, contractor/commercial readiness, and test preparation.
+
+### Guardrails
+
+- No provisional competitor inference was converted into a public fact.
+- No ads or landing pages were created; no new tagline was published.
+- No outreach, spending, account connection, live-site modification, or unsupported customer/project/performance claim occurred.
+
 ## 2026-07-20 — Phase 2B: Market Intelligence Evidence Validation
 
 ### Added
