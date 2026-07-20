@@ -1,0 +1,18 @@
+Field,Type,Required,Description,Source,Validation/privacy
+lead_id,UUID,Yes,Canonical lead join key,CRM,Immutable
+opportunity_id,UUID/string,For opportunity stages,Canonical opportunity,CRM,Restricted
+event_id,UUID,Yes,Unique stage event/dedupe key,CRM/export,Immutable
+event_name,enum,Yes,Approved offline conversion event,CRM,Dictionary allowlist
+event_timestamp_utc,datetime,Yes,Actual stage transition time,CRM,ISO 8601; timezone QA
+gclid,opaque,One eligible identifier where available,Ad click identifier,Attribution store,Consent/retention controls
+gbraid,opaque,Conditional,Eligible identifier,Attribution store,Same
+wbraid,opaque,Conditional,Eligible identifier,Attribution store,Same
+enhanced_conversion_identifier,hashed value,Conditional/approved,Normalized+hashed first-party identifier,Restricted processor,Only after legal/platform approval
+value,decimal,For approved value events,Conversion value,CRM/finance,Nonnegative; definition governed
+currency,ISO 4217,With value,Currency,CRM/finance,USD expected; verify
+stage,enum,Yes,Current lifecycle stage,CRM,Allowlist
+qualification_reason,enum,When classified,Disposition/reason,CRM,Allowlist
+consent_status,enum,Yes,Measurement eligibility,Consent log,Enforced before export
+adjustment_type,enum,If correction,restate|retract,CRM/finance,Audit trail
+exported_at_utc,datetime,Yes,Export time,Pipeline,Audit
+import_status,enum,Yes,pending|accepted|rejected|adjusted,Pipeline,Retain error code not PII

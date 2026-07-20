@@ -1,0 +1,10 @@
+Page,Audience,Primary CTA,Secondary CTA,Call CTA,Destination,Tracking event,Approval status
+Hardwood Floor Refinishing,Residential,Request a project review,View project requirements,Call [PHONE—OWNER APPROVAL REQUIRED],/request-estimate/?path=residential,click_to_call / form_start,Proposed; owner approval required
+Dust-Controlled Floor Sanding,Residential,Request a project review,View project requirements,Call [PHONE—OWNER APPROVAL REQUIRED],/request-estimate/?path=residential,click_to_call / form_start,Proposed; owner approval required
+Hardwood Floor Installation,Residential,Request a project review,View project requirements,Call [PHONE—OWNER APPROVAL REQUIRED],/request-estimate/?path=residential,click_to_call / form_start,Proposed; owner approval required
+Hardwood Floor Repair and Restoration,Residential,Request a project review,View project requirements,Call [PHONE—OWNER APPROVAL REQUIRED],/request-estimate/?path=residential,click_to_call / form_start,Proposed; owner approval required
+Historic and Heart-Pine Restoration,Residential,Request a project review,View project requirements,Call [PHONE—OWNER APPROVAL REQUIRED],/request-estimate/?path=residential,click_to_call / form_start,Proposed; owner approval required
+Commercial Hardwood Flooring,Commercial,Request a site walkthrough,View project requirements,Call [PHONE—OWNER APPROVAL REQUIRED],/request-estimate/?path=commercial,click_to_call / form_start,Proposed; owner approval required
+Contractor and Builder Partnerships,Contractor,Submit a bid package,View project requirements,Call [PHONE—OWNER APPROVAL REQUIRED],/request-estimate/?path=contractor,click_to_call / form_start,Proposed; owner approval required
+Northshore Hardwood Services,Residential / trade,Request a project review,View project requirements,Call [PHONE—OWNER APPROVAL REQUIRED],/request-estimate/?path=residential,click_to_call / form_start,Proposed; owner approval required
+Request an Estimate,All,Choose and complete inquiry path,Review service areas,Call [PHONE—OWNER APPROVAL REQUIRED],Form path,form_start / *_submitted,Proposed; backend and owner approval required

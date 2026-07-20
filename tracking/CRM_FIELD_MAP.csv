@@ -1,0 +1,30 @@
+Internal field,Purpose,Allowed values/type,CRM mapping,Required,Rule
+new,Lifecycle stage / disposition,New,CRM stage,Yes,Timestamp + actor + prior stage required
+attempting_contact,Lifecycle stage / disposition,Attempting Contact,CRM stage,Yes,Timestamp + actor + prior stage required
+contacted,Lifecycle stage / disposition,Contacted,CRM stage,Yes,Timestamp + actor + prior stage required
+qualified,Lifecycle stage / disposition,Qualified,CRM stage,Yes,Timestamp + actor + prior stage required
+disqualified,Lifecycle stage / disposition,Disqualified,CRM stage,Yes,Timestamp + actor + prior stage required
+estimate_scheduled,Lifecycle stage / disposition,Estimate Scheduled,CRM stage,Yes,Timestamp + actor + prior stage required
+estimate_completed,Lifecycle stage / disposition,Estimate Completed,CRM stage,Yes,Timestamp + actor + prior stage required
+proposal_sent,Lifecycle stage / disposition,Proposal Sent,CRM stage,Yes,Timestamp + actor + prior stage required
+follow-up,Lifecycle stage / disposition,Follow-Up,CRM stage,Yes,Timestamp + actor + prior stage required
+won,Lifecycle stage / disposition,Won,CRM stage,Yes,Timestamp + actor + prior stage required
+lost,Lifecycle stage / disposition,Lost,CRM stage,Yes,Timestamp + actor + prior stage required
+no_response,Lifecycle stage / disposition,No Response,CRM stage,Yes,Timestamp + actor + prior stage required
+duplicate,Lifecycle stage / disposition,Duplicate,CRM stage,Yes,Timestamp + actor + prior stage required
+spam,Lifecycle stage / disposition,Spam,CRM stage,Yes,Timestamp + actor + prior stage required
+outside_service_area,Lifecycle stage / disposition,Outside Service Area,CRM stage,Yes,Timestamp + actor + prior stage required
+wrong_service,Lifecycle stage / disposition,Wrong Service,CRM stage,Yes,Timestamp + actor + prior stage required
+too_small,Lifecycle stage / disposition,Too Small,CRM stage,Yes,Timestamp + actor + prior stage required
+timing_mismatch,Lifecycle stage / disposition,Timing Mismatch,CRM stage,Yes,Timestamp + actor + prior stage required
+price-only_shopper,Lifecycle stage / disposition,Price-Only Shopper,CRM stage,Yes,Timestamp + actor + prior stage required
+future_opportunity,Lifecycle stage / disposition,Future Opportunity,CRM stage,Yes,Timestamp + actor + prior stage required
+lead_id,Canonical identifier,UUID,CRM lead ID,Yes,Immutable
+qualification_reason,Reason enum,stage-specific,Disqualification reason,Conditional,Do not use free text for reporting
+first_touch_source,Original attribution,source schema,First touch,Yes,Never overwrite
+latest_touch_source,Most recent attribution,source schema,Latest touch,Yes,Timestamped
+consent_timestamp,Consent evidence,ISO UTC,Consent time,Yes,Server-side
+consent_version,Disclosure version,version ID,Consent version,Yes,Immutable record
+gclid_gbraid_wbraid,Click identifiers,opaque,Restricted attribution fields,Conditional,Least privilege/retention
+revenue_booked,Approved revenue,decimal+currency+date,Revenue,Conditional,Finance definition
+gross_profit_booked,Approved GP,decimal+currency+date,Gross profit,Conditional,Restricted finance access

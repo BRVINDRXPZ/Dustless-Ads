@@ -49,4 +49,16 @@ Use this file to track questions that require owner clarification or approval.
 43. Approve exact New Orleans, Jefferson Parish, Westbank, and Northshore cities/ZIPs, exclusions, travel minimums, and reciprocal campaign exclusions; Mississippi remains excluded without approval.
 44. Assign an operator to validate current official Google Ads/Editor requirements and LSA eligibility because public browsing failed, and retain dated evidence without credentials/private documents.
 
+
+45. Approve the Phase 5 minimum viable page set and exact page priority; confirm refinishing, dust-controlled sanding, and installation are the first eligible paid-search services after all gates pass.
+46. Provide the production website stack/hosting owner, deployment process, staging environment, domain/canonical rules, and technical implementer; none are present in this repository.
+47. Approve the public phone number, call routing by business hours, after-hours/missed-call process, fallback number, and whether dynamic number insertion may be evaluated.
+48. Approve form-required fields, response routing, project-minimum messaging, file allowances, upload retention/deletion, duplicate window, rate-limit/security owner, and accessible spam-control approach.
+49. Select the CRM/system of record and assign owners for each Phase 5 lifecycle stage, disposition reason, timestamp, revenue definition, gross-profit definition, corrections, and offline upload review.
+50. Obtain legal/privacy review for form consent, text/email/phone response language, analytics/advertising consent, cookie/tag behavior, call recording/transcription stance, privacy notice, vendors, retention, and user-rights process.
+51. Approve the measurement architecture, primary conversion hierarchy, provisional 60-second call-review threshold, human qualified-call criteria, first/latest-touch rules, and eligible click/enhanced-conversion identifier handling.
+52. Supply an approved contact/brand asset pack: wordmark/logo rules, phone, address display policy, hours, CTA/offer wording, and favicon; no usable brand files are currently in the repository.
+53. Register permissioned, accurately captioned proof for the MVP pages: hero, matched before/after, process, crew/equipment as relevant, and service-matched reviews; approve customer and location-display permissions.
+54. Assign named reviewers for content/claims, operations, security/backend, CRM/tracking, privacy/legal, mobile/accessibility, and final written launch authorization.
+
 Do not answer these questions yourself unless the repository contains verified information.
