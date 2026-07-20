@@ -1,0 +1,23 @@
+# Assumption Register
+
+Assumptions are not verified facts. Each must be confirmed, rejected, or replaced with evidence before it supports public claims, spending, targeting, or operational commitments.
+
+| ID | Working assumption | Why it matters | Validation method | Status |
+|---|---|---|---|---|
+| A-001 | High-intent search and local discovery should be evaluated before broad awareness channels. | Sets the initial channel sequence. | Phase 2 demand research and approved account baselines | Proposed |
+| A-002 | Profitable refinishing, whole-home work, installation, and historic restoration are likely priority residential scopes. | Influences research and qualification. | Owner confirms service economics and capacity | Awaiting owner |
+| A-003 | Contractor and commercial opportunities need distinct messages, qualification, and sales workflows. | Prevents a single generic funnel. | Map current buying processes with owner | Proposed |
+| A-004 | Greater New Orleans is the primary focus; Northshore demand should use owner-approved targeting and minimums. | Controls travel and lead quality. | Owner confirms exact geography and job rules | Awaiting owner |
+| A-005 | Existing project media and customer proof may be useful, but no asset is cleared until permission and accuracy are recorded. | Protects privacy and claim integrity. | Build a proof and permission register | Unverified |
+| A-006 | Current analytics may not fully connect acquisition sources to won revenue or gross profit. | Supports an early measurement audit. | Review approved systems and sample records | Unverified |
+| A-007 | Faster, consistent response and follow-up may improve conversion, subject to current staffing and hours. | Shapes operational work before scaling leads. | Baseline timestamps and workflow; confirm capacity | Unverified |
+| A-008 | The current tagline is existing language; alternative positioning concepts are not approved campaign identities. | Prevents accidental adoption of concepts. | Owner decision after Phase 2 positioning work | Confirmed by repository context |
+| A-009 | No numeric growth target should be set until baseline performance, unit economics, budget, and capacity are known. | Prevents fabricated or impractical targets. | Establish metric baselines and owner-approved targets | Active guardrail |
+| A-010 | Live-system access can be granted safely through approved least-privilege methods without storing credentials here. | Enables later audits and implementation. | Owner confirms account ownership and access process | Awaiting owner |
+
+## Review Rules
+
+- Cite the evidence or owner decision when changing an assumption to verified or rejected.
+- Move durable approved choices to `DECISIONS.md`.
+- Add questions that only the owner can answer to `OWNER_INPUT_REQUIRED.md`.
+- Do not silently treat a long-standing assumption as fact.
