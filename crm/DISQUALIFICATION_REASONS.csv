@@ -1,0 +1,11 @@
+Code,Description,Human review required,Status
+wrong_service,Wrong Service,yes,Proposed—owner approval required
+outside_approved_service_area,Outside Approved Service Area,yes,Proposed—owner approval required
+timing_not_feasible,Timing Not Feasible,yes,Proposed—owner approval required
+project_size_below_approved_minimum,Project Size Below Approved Minimum,yes,Proposed—owner approval required
+unable_to_contact,Unable To Contact,yes,Proposed—owner approval required
+duplicate,Duplicate,yes,Proposed—owner approval required
+spam,Spam,yes,Proposed—owner approval required
+operational_fit,Operational Fit,yes,Proposed—owner approval required
+customer_withdrew,Customer Withdrew,yes,Proposed—owner approval required
+other_owner_review,Other Owner Review,yes,Proposed—owner approval required

@@ -1,0 +1,15 @@
+Field,Type,Required,Validation/definition
+lead_id,string,yes,unique
+contact_id,string,yes,FK
+lead_type,enum,yes,residential|contractor|commercial|referral|past_customer|partner
+received_at,datetime,yes,ISO 8601
+source,enum,yes,normalized list/Unknown
+campaign_id,string,no,FK
+service,string,yes,approved taxonomy
+geography,string,yes,approved service geography or unknown
+stage,enum,yes,valid residential stage
+qualified_status,enum,yes,pending|qualified|disqualified
+disqualification_reason,enum,no,required if disqualified
+owner_id,string,yes,internal owner
+first_response_at,datetime,no,required once human response
+referral_id,string,no,FK

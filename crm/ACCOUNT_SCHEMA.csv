@@ -1,0 +1,8 @@
+Field,Type,Required,Validation/definition
+account_id,string,yes,unique
+account_name,string,yes,restricted where household
+account_type,enum,yes,approved account types
+tier,enum,no,A|B|C|unassigned
+owner_id,string,yes,internal owner
+status,enum,yes,prospect|active|inactive|partner
+created_at,datetime,yes,ISO 8601

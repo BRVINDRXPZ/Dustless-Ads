@@ -1,0 +1,11 @@
+Field,Type,Required,Validation/definition
+touch_id,string,yes,unique
+lead_id,string,yes,FK
+occurred_at,datetime,yes,ISO 8601
+source,enum,yes,normalized/Unknown
+campaign_id,string,no,FK
+medium,string,no,normalized
+touch_role,enum,yes,first|primary|last|assist|referral|offline
+evidence_type,enum,yes,utm|platform_id|call|form|customer_stated|manual
+evidence_reference,string,no,non-secret reference
+review_status,enum,yes,pending|approved|conflict

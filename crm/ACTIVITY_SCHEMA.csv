@@ -1,0 +1,12 @@
+Field,Type,Required,Validation/definition
+activity_id,string,yes,unique
+activity_type,enum,yes,call|email|sms|meeting|site_walk|bid|note|task|form
+occurred_at,datetime,yes,ISO 8601
+contact_id,string,no,FK
+account_id,string,no,FK
+lead_id,string,no,FK
+opportunity_id,string,no,FK
+direction,enum,no,inbound|outbound|internal
+outcome,string,yes,approved taxonomy
+owner_id,string,yes,internal owner
+automated,boolean,yes,true|false

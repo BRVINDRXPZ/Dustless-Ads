@@ -1,0 +1,13 @@
+Field,Type,Required,Validation/definition
+opportunity_id,string,yes,unique
+lead_id,string,no,FK
+account_id,string,yes,FK
+opportunity_type,enum,yes,approved type
+stage,enum,yes,valid residential/B2B stage
+amount,currency,no,nonnegative
+probability,decimal,no,owner-calibrated only
+next_action,string,yes,human action
+next_action_at,datetime,yes,ISO 8601
+owner_id,string,yes,internal owner
+won_lost_at,datetime,no,required on terminal stage
+lost_reason,enum,no,required if lost
