@@ -111,3 +111,8 @@ All notable repository changes are documented here.
 - No live website was modified; no page was published; no backend, upload, analytics, advertising, CRM, call service, or production identifier was connected.
 - Prototype forms never transmit data or read/upload files. All contact, proof, credential, coverage, review, offer, and legal details remain explicit approval-gated placeholders.
 - Phase 4 advertising remains paused until every Phase 5 owner, proof, technical, privacy, operational, mobile, measurement, and written approval gate passes.
+
+## 2026-07-20 — Phase 7 social content operating system
+- Added the complete `social/` strategy, platform, pillar, 13-franchise, hook, script, caption, CTA, capture, editing, cover, approval, posting, engagement, DM, testing, paid-readiness, partnership, risk, and 30-day sprint system.
+- Added a 90-day daily production/publishing/measurement calendar, repurposing matrix, performance scorecard with weighted business-value formula, and permission-led asset register.
+- Added Phase 7 assumptions, decisions, owner questions 66–75, and reprioritized next actions. No content was published, no account connected, no party contacted, and no spend initiated.
