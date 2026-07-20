@@ -1,0 +1,16 @@
+Page,Proposed URL,Prototype file,Type,Index recommendation,Internal links,Gate
+Hardwood Floor Refinishing,/refinishing/,prototype/pages/refinishing.html,Service,Index after approval,request-estimate; gallery; reviews-proof; service-areas,Owner + technical + proof
+Dust-Controlled Floor Sanding,/dust-controlled-sanding/,prototype/pages/dust-controlled-sanding.html,Service,Index after approval,request-estimate; gallery; reviews-proof; service-areas,Owner + technical + proof
+Hardwood Floor Installation,/installation/,prototype/pages/installation.html,Service,Index after approval,request-estimate; gallery; reviews-proof; service-areas,Owner + technical + proof
+Hardwood Floor Repair and Restoration,/repair-restoration/,prototype/pages/repair-restoration.html,Service,Index after approval,request-estimate; gallery; reviews-proof; service-areas,Owner + technical + proof
+Historic and Heart-Pine Restoration,/historic-heart-pine/,prototype/pages/historic-heart-pine.html,Service,Index after approval,request-estimate; gallery; reviews-proof; service-areas,Owner + technical + proof
+Commercial Hardwood Flooring,/commercial/,prototype/pages/commercial.html,Service,Index after approval,request-estimate; gallery; reviews-proof; service-areas,Owner + technical + proof
+Contractor and Builder Partnerships,/contractor-builder/,prototype/pages/contractor-builder.html,Service,Index after approval,request-estimate; gallery; reviews-proof; service-areas,Owner + technical + proof
+Northshore Hardwood Services,/northshore/,prototype/pages/northshore.html,Service,Index after approval,request-estimate; gallery; reviews-proof; service-areas,Owner + technical + proof
+Request an Estimate,/request-estimate/,prototype/pages/request-estimate.html,Conversion,Index after approval,contextual shared navigation,Owner + technical/legal as applicable
+Project Gallery,/gallery/,prototype/pages/gallery.html,Proof,Index after real proof,contextual shared navigation,Owner + technical/legal as applicable
+Reviews and Proof,/reviews-proof/,prototype/pages/reviews-proof.html,Proof,Index after real proof,contextual shared navigation,Owner + technical/legal as applicable
+Service Areas,/service-areas/,prototype/pages/service-areas.html,Geography,Index after owner approval,contextual shared navigation,Owner + technical/legal as applicable
+Thank You,/thank-you/,prototype/pages/thank-you.html,State,Noindex,contextual shared navigation,Owner + technical/legal as applicable
+Form Error,/form-error/,prototype/pages/form-error.html,State,Noindex,contextual shared navigation,Owner + technical/legal as applicable
+Privacy and Consent,/privacy-consent/,prototype/pages/privacy-consent.html,Legal draft,Index after legal approval,contextual shared navigation,Owner + technical/legal as applicable

@@ -1,0 +1,15 @@
+Field,Definition,Example/enum,System of record,Required,Privacy/notes
+lead_id,Immutable server UUID,UUID,CRM,Yes,Never exposed publicly
+event_id,Immutable conversion event UUID,UUID,Event store,Yes,Dedupe
+lead_type,Inquiry path,residential|contractor|commercial|phone,CRM,Yes,Controlled enum
+source_group,Normalized source,paid_search|organic_search|direct|referral|social|other|unknown,CRM,Yes,Never infer unknown as direct
+utm_source,Captured campaign source,lowercase token,Attribution store,When present,First/latest separately
+utm_medium,Captured medium,controlled enum,Attribution store,When present,Validated
+utm_campaign,Campaign name,controlled token,Attribution store,When present,No PII
+gclid,Google click identifier,opaque,Restricted attribution store,When present/eligible,Access/retention controlled
+gbraid,Google app/web identifier,opaque,Restricted attribution store,When present/eligible,Same
+wbraid,Google web-to-app identifier,opaque,Restricted attribution store,When present/eligible,Same
+landing_page_path,Initial internal path,/refinishing/,Attribution store,Yes,No query secrets
+referrer_domain,Minimized referring domain,example.com,Attribution store,No,No full sensitive URL
+captured_at,Server UTC capture,ISO 8601,Attribution store,Yes,Server supplied
+consent_state,Measurement consent status,unknown|denied|granted,Consent log,Yes,Version/time linked

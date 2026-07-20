@@ -1,0 +1,35 @@
+Path,Field name,Label,Input type,Required,Max/allowed,Server validation,CRM mapping,Privacy class
+all,name,Full name,text,yes,120,trim; reject control characters,CRM contact name,Personal data
+residential,phone,Phone,tel,conditional,32,E.164-capable normalization; require phone or email,CRM phone,Personal data
+all,email,Email,email,conditional,254,normalize domain; require phone or email,CRM email,Personal data
+residential,project_zip,Project ZIP code,text,yes,10,US ZIP/ZIP+4 pattern,Project ZIP,Location data
+residential,project_address,Project address,text,no,240,never analytics; normalize safely,Project address,Sensitive location; restricted
+residential,service_needed,Service needed,select,yes,enum,allowlist,Service,Operational
+residential,approx_sqft,Approximate square footage,number,no,7 digits,positive integer; approved bounds,Estimated square feet,Operational
+residential,occupancy,Occupied or vacant,select,no,enum,allowlist,Occupancy,Operational
+residential,timeline,Desired timeline,select,no,enum,allowlist,Desired start,Operational
+residential,customer_type,Residential or commercial,select,yes,enum,allowlist,Lead type,Operational
+residential,description,Project description,textarea,yes,2000,plain text; length; abuse screening,Scope description,Personal/operational
+residential,photos,Photos,file,no,10 MB/file provisional,JPG/JPEG/PNG signature scan; secure quarantine,Upload reference,Sensitive media
+all,preferred_contact,Preferred contact method,select,no,enum,allowlist,Contact preference,Consent-related
+all,consent,Contact consent,checkbox,yes,boolean,must be true; version/time server-set,Consent status/version/time,Consent
+contractor,company,Company,text,yes,160,plain text,Company,Business
+contractor,role,Role,text,no,100,plain text,Role,Business
+contractor,project_type,Project type,select,yes,enum,allowlist,Project type,Operational
+contractor,project_location,Project location,text,yes,240,minimize; never analytics,Project location,Location data
+contractor,estimated_sqft,Estimated square footage,number,no,7 digits,positive integer,Estimated square feet,Operational
+contractor,bid_due_date,Bid due date,date,no,ISO date,reasonable date,Bid due,Operational
+contractor,desired_start,Desired project start,date,no,ISO date,reasonable date,Desired start,Operational
+contractor,documents,Plans or documents,file,no,10 MB/file provisional,PDF/JPG/PNG signature and malware scan; quarantine,Upload reference,Sensitive documents
+contractor,scope_description,Scope description,textarea,yes,4000,plain text; length,Scope description,Operational
+commercial,company,Company,text,yes,160,plain text,Company,Business
+commercial,role,Role,text,no,100,plain text,Role,Business
+commercial,property_type,Property type,select,yes,enum,allowlist,Property type,Operational
+commercial,project_location,Project location,text,yes,240,minimize; never analytics,Project location,Location data
+commercial,approx_sqft,Approximate square footage,number,no,7 digits,positive integer,Estimated square feet,Operational
+commercial,occupancy_status,Occupancy status,select,no,enum,allowlist,Occupancy,Operational
+commercial,desired_schedule,Desired schedule,text,no,240,plain text,Desired schedule,Operational
+commercial,phasing_requirements,Phasing requirements,textarea,no,2000,plain text,Phasing,Operational
+commercial,vendor_docs,Vendor documentation needs,textarea,no,1000,plain text,Vendor requirements,Operational
+commercial,plans_photos,Plans or photos,file,no,10 MB/file provisional,PDF/JPG/PNG signature and malware scan; quarantine,Upload reference,Sensitive media/docs
+commercial,scope_description,Scope description,textarea,yes,4000,plain text,Scope description,Operational

@@ -31,6 +31,13 @@ This file records durable decisions so later phases do not overwrite approved di
 | D-025 | 2026-07-20 | A separate stairs campaign is not in the proposed launch set because scope economics, demand, page readiness, and measurement are unresolved. | Phase 4 evaluation | Proposed; owner review required |
 | D-026 | 2026-07-20 | Weak secondary actions are observation signals, not bidding goals once qualified primary outcomes are viable. | Task instruction + Phase 4 conversion strategy | Active |
 
+
+| D-027 | 2026-07-20 | Build Phase 5 as a self-contained static local prototype because no production website code or framework exists in this repository; do not infer or modify the live stack. | Task instruction + repository inspection | Active |
+| D-028 | 2026-07-20 | Prototype forms have no live endpoint, do not upload files, and record demo interactions in memory only; server acceptance is required before any production submission conversion. | Task instruction + Phase 5 architecture | Active |
+| D-029 | Keep all Phase 4 campaigns paused until landing-page, claims/proof, mobile, form/call, CRM/offline measurement, spam/deduplication, privacy, technical QA, and written owner approval gates pass. | Task instruction | Active |
+| D-030 | Treat click-to-call, form interaction, gallery, FAQ, area, and thank-you events as secondary diagnostics; they must not replace mature qualified/offline Smart Bidding goals. | Task instruction + Phase 5 measurement plan | Active |
+| D-031 | Use one substantive Northshore framework rather than thin duplicated town pages until approved coverage and distinct useful content/proof exist. | Task instruction + Phase 5 SEO architecture | Active |
+
 ## Pending Decisions
 
 Owner decisions remain centralized in `OWNER_INPUT_REQUIRED.md`. When resolved, add the decision here with its date, exact approved wording or boundary, and source; do not erase the historical question.

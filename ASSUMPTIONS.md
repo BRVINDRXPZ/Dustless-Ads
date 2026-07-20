@@ -34,6 +34,12 @@ Assumptions are not verified facts. Each must be confirmed, rejected, or replace
 | A-028 | Current Google Ads limits, options, Editor schemas, and LSA eligibility in the Phase 4 package are provisional because public verification returned HTTP 401 on 2026-07-20. | Prevents current-best-practice assumptions from becoming platform facts. | Validate against current official Google documentation, Editor preview, UI, and LSA checker before upload | Active Phase 4 guardrail |
 | A-029 | The budget formulas can support decisions only after service-specific economics, conversion lag, and capacity inputs replace TBD values. | Avoids invented forecasts, CPCs, conversion rates, and lead totals. | Owner inputs plus reconciled account/CRM data | Active Phase 4 guardrail |
 
+
+| A-030 | A dependency-free static prototype is the appropriate Phase 5 build because repository inspection found no website framework, source, package, hosting, form, tracking, asset, analytics-ID, or CRM implementation. | Avoids inventing a production stack and keeps migration possible. | Owner/technical team identifies any external production stack and maps components before implementation | Active Phase 5 implementation assumption |
+| A-031 | Server-accepted forms, human-qualified calls, and reconciled offline lifecycle outcomes can provide a safer bidding hierarchy than client clicks or thank-you views. | Determines conversion architecture and prevents false leads. | Implement in test destinations and reconcile against CRM/system of record | Proposed Phase 5 measurement design |
+| A-032 | A 30-day contact + ZIP/service duplicate window and 60-second call threshold are useful provisional review starting points, not final qualification rules. | Enables test design without presenting thresholds as facts. | Owner approves workflow; analyze real duplicate/call outcomes | Provisional; owner approval required |
+| A-033 | Refinishing, dust-controlled sanding, and installation plus shared conversion/support pages are the narrowest plausible launch set once every gate passes. | Focuses proof, QA, and integration work. | Owner confirms economics/capacity; complete end-to-end QA and written approval | Proposed Phase 5 sequencing; not launch authorization |
+
 ## Review Rules
 
 - Cite the evidence or owner decision when changing an assumption to verified or rejected.
