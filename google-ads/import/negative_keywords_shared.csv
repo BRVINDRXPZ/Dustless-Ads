@@ -1,0 +1,33 @@
+List name,Negative keyword,Match type,Status,Intent class,Safeguard
+Shared | Irrelevant Service Intent,diy,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,how to,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,class,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,classes,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,training,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,certification,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,job,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,jobs,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,career,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,careers,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,salary,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,equipment rental,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,sander rental,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,rent a sander,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,floor sander for sale,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,machine purchase,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,cleaning products,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,floor cleaner,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,furniture refinishing,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,wholesale,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,free products,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,carpet only,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,tile only,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,epoxy only,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,laminate only,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,vinyl only,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,basketball court,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,gym floor,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,resume,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,employment,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,home depot rental,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent
+Shared | Irrelevant Service Intent,lowes rental,Phrase,Proposed; validate before upload,DIY/jobs/tools/products/wrong floor,Check close variants; do not block legitimate hardwood service intent

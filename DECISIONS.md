@@ -25,6 +25,11 @@ This file records durable decisions so later phases do not overwrite approved di
 | D-019 | 2026-07-20 | Position offers around assessment, decision clarity, planning, qualification, and care rather than default discounts. | Phase 3 strategy | Proposed; economics and operations approval required |
 | D-020 | 2026-07-20 | No Phase 3 platform, offer, claim, sample copy, CTA, or score is authorization to publish, advertise, guarantee delivery, contact anyone, or modify a live system. | Task instruction | Active |
 | D-021 | 2026-07-20 | “Dust-free” is prohibited; “dust-controlled” and use of “dustless” outside the company name require verified process wording and owner approval. | Task instruction + Phase 3 claims policy | Active |
+| D-022 | 2026-07-20 | Phase 4 is an offline, paused Google Search production specification; it does not authorize account connection, upload, publication, live changes, or spend. | Task instruction | Active |
+| D-023 | 2026-07-20 | Initial keyword control uses exact and phrase match; broad match is held for an isolated later test after qualified conversion data, Smart Bidding readiness, negatives, and daily query review. | Phase 4 architecture | Proposed; owner/platform validation required |
+| D-024 | 2026-07-20 | Performance Max is not a primary launch campaign and remains gated by primary tracking, measurable lead quality, offline outcomes, approved creative, and usable Search data. | Task instruction + Phase 4 readiness plan | Active |
+| D-025 | 2026-07-20 | A separate stairs campaign is not in the proposed launch set because scope economics, demand, page readiness, and measurement are unresolved. | Phase 4 evaluation | Proposed; owner review required |
+| D-026 | 2026-07-20 | Weak secondary actions are observation signals, not bidding goals once qualified primary outcomes are viable. | Task instruction + Phase 4 conversion strategy | Active |
 
 ## Pending Decisions
 

@@ -1,0 +1,11 @@
+Campaign scope,Location,Action,Status,Presence setting,Notes
+All core campaigns,"New Orleans, Louisiana",Target,Proposed; owner approval,People in or regularly in; validate exact current option,Geo ID and map boundary must be confirmed in current Editor/UI
+All core campaigns,"Metairie, Louisiana",Target,Proposed; owner approval,People in or regularly in; validate exact current option,Geo ID and map boundary must be confirmed in current Editor/UI
+All core campaigns,Mississippi,Exclude,Required until expansion approval,People in or regularly in; validate exact current option,Geo ID and map boundary must be confirmed in current Editor/UI
+Northshore campaign,"Mandeville, Louisiana",Target,Hold,People in or regularly in; validate exact current option,Geo ID and map boundary must be confirmed in current Editor/UI
+Northshore campaign,"Covington, Louisiana",Target,Hold,People in or regularly in; validate exact current option,Geo ID and map boundary must be confirmed in current Editor/UI
+Northshore campaign,"Madisonville, Louisiana",Target,Hold,People in or regularly in; validate exact current option,Geo ID and map boundary must be confirmed in current Editor/UI
+Northshore campaign,"Slidell, Louisiana",Target,Hold,People in or regularly in; validate exact current option,Geo ID and map boundary must be confirmed in current Editor/UI
+Core campaigns,Approved Northshore targets,Exclude,Apply if Northshore launches,People in or regularly in; validate exact current option,Geo ID and map boundary must be confirmed in current Editor/UI
+Northshore campaign,Approved core targets,Exclude,Apply if Northshore launches,People in or regularly in; validate exact current option,Geo ID and map boundary must be confirmed in current Editor/UI
+All campaigns,Countries outside United States,Exclude,Validate implementation method,People in or regularly in; validate exact current option,Geo ID and map boundary must be confirmed in current Editor/UI

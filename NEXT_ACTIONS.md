@@ -1,6 +1,6 @@
 # Next Actions
 
-**Current phase:** Phase 3 positioning and offer architecture complete as an internal recommendation; owner decisions, proof, operational design, and Phase 2B evidence remain the gate before external production.
+**Current phase:** Phase 4 Google Ads architecture and paused offline production package complete; owner decisions, proof, landing pages, tracking, operations, current-platform validation, and explicit launch approval remain required.
 
 **Rule:** A planning item is not authorization to publish, spend, contact anyone, connect an account, or modify a live system.
 
@@ -25,6 +25,11 @@
 | 15 | Build claims and proof register from verified records | Owner + strategy + creative | Credentials, process documents, product data, permissions | Each proposed claim linked to evidence, scope, permission, approver, and recheck date | Awaiting owner evidence |
 | 16 | Operationalize contractor/commercial accountability before messaging it | Owner + operations | Vendor readiness, capacity, terms, site process | Approved bid/no-bid, intake, communication, change, phasing, and closeout process | Awaiting owner |
 | 17 | Establish baseline and implementation requirements for Phase 3 message tests | Strategy + tracking | Lifecycle, traffic/channel access, proof-cleared copy | Pre-registered test briefs with power/evidence basis and guardrails; not launched | Blocked by tracking and approval |
+| 18 | Review the Phase 4 launch/hold/do-not-launch decision and resolve new owner questions 37–44 | Owner + strategy | Phase 4 package | Exact campaign subset, services, geographies, economics, capacity, offers, and assets approved or revised | Awaiting owner |
+| 19 | Build and approve intent-matched landing pages without publishing | Owner + web + strategy | Claims/offers/pages approved | Final URLs replace placeholders and pass message, mobile, privacy, and CTA QA | Blocked by approval |
+| 20 | Implement and QA primary conversion and offline-outcome plumbing in an approved test process | Owner + tracking | Access, consent, CRM definitions, implementation approval | Deduplicated call/form and offline stage tests reconcile; no bidding contamination | Blocked by owner/access |
+| 21 | Validate current Google Ads, Editor, asset, policy, bidding, location, and LSA requirements against official sources | Ads operator | Approved safe access/current tools | Dated validation record; CSV mapping preview passes while all items remain paused | Not started |
+| 22 | Complete prelaunch QA and obtain explicit written launch/spend approval | Owner + ads operator | Items 18–21 and launch checklist | Signed-off campaign preview, budget, rollback, monitoring schedule; no automatic launch | Blocked |
 
 ## Owner Review Checklist
 
@@ -55,10 +60,17 @@
 - Designed 14 value-based offers, a structured offer matrix, positioning scorecard, 26 scored tagline/campaign options, and nine controlled message-test specifications.
 - Preserved the current tagline and kept every public claim, offer launch, ad, page, outreach, spend, and live change behind owner/evidence/operations approval.
 
+## Completed in Phase 4
+
+- Built a nine-campaign Search architecture with strict launch, conditional, hold, and do-not-launch gates; evaluated stairs and excluded it from initial launch.
+- Produced paused campaign, ad-group, classified keyword, negative, RSA, asset, location, and conversion-action CSV specifications.
+- Defined geography, staged bidding, modeled-budget formulas, primary/offline conversion hierarchy, query review, optimization, testing, launch QA, Performance Max gates, and provisional LSA research.
+- Attempted current-platform web verification; documented the HTTP 401 limitation and made official-documentation/Editor validation a mandatory prelaunch gate.
+
 ## Do Not Start Yet
 
 - Public comparative claims based on the preliminary competitor set before live validation.
-- Advertisement or campaign creation.
+- Uploading, enabling, publishing, or spending on advertisements or campaigns; the Phase 4 files are offline specifications only.
 - Landing-page design or development.
 - Outreach to customers, leads, contractors, vendors, partners, media, or other third parties.
 - Connections to or changes within any live website, advertising, analytics, CRM, search, business-profile, or social account.

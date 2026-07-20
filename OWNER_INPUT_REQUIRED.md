@@ -40,5 +40,13 @@ Use this file to track questions that require owner clarification or approval.
 34. Approve the evidence threshold and exact wording, if any, for “hardwood specialist,” “historic-floor specialist,” “commercial,” “Greater New Orleans,” and Northshore positioning.
 35. Identify the approver and recordkeeping process for claims, project facts, media/review permissions, expiry/recheck dates, corrections, and withdrawals.
 36. Approve, revise, or reject the proposed disqualifiers and walk-away conditions in the personas and objection framework.
+37. Approve a Phase 4 budget scenario and exact monthly/daily ceilings; provide service-specific CPC planning data, click-to-lead, qualified-lead, estimate, close, project value, gross margin, maximum CAC, conversion lag, and capacity inputs where known.
+38. Approve or revise the proposed launch subset, campaign allocation, and service-level stop/scale rules in `google-ads/CAMPAIGN_ARCHITECTURE.md` and `google-ads/BUDGET_SCENARIOS.md`.
+39. Confirm exact landing-page URLs and whether each service page/offer may be produced; approve assessment/free-estimate wording, outputs, fees, minimums, and disclaimers before ads.
+40. Confirm the verified business name, phone, answered-call schedule, missed-call workflow, legal entity, advertiser-verification owner, Google Business Profile relationship, and permitted logo/project assets for ad assets.
+41. Define the CRM/system of record, qualified-call/form rules, spam/test handling, call-duration review, consent/call-recording policy, GCLID/GBRAID/WBRAID handling, offline stage timestamps, value/correction policy, and implementation owner.
+42. Confirm whether stair/tread work merits a later ad group or campaign using actual minimum scope, project economics, service boundaries, capacity, and Keyword Planner/search-term evidence.
+43. Approve exact New Orleans, Jefferson Parish, Westbank, and Northshore cities/ZIPs, exclusions, travel minimums, and reciprocal campaign exclusions; Mississippi remains excluded without approval.
+44. Assign an operator to validate current official Google Ads/Editor requirements and LSA eligibility because public browsing failed, and retain dated evidence without credentials/private documents.
 
 Do not answer these questions yourself unless the repository contains verified information.

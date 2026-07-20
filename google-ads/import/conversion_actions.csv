@@ -1,0 +1,18 @@
+Conversion action,Category mapping provisional,Goal role,Count,Value policy,Definition,Status,Notes
+Qualified phone call,Phone call lead,Primary,One,No provisional value,Qualified disposition; duration alone insufficient,Specification only; not configured,Validate current category/import/enhanced-conversion requirements
+Qualified estimate form,Submit lead form,Primary,One,No provisional value,Unique server/CRM accepted qualified form,Specification only; not configured,Validate current category/import/enhanced-conversion requirements
+Estimate scheduled,Book appointment,Primary offline,One,TBD owner economics,Accepted appointment,Specification only; not configured,Validate current category/import/enhanced-conversion requirements
+Commercial inquiry,Submit lead form,Primary B2B,One,TBD,Valid entity/project/authority,Specification only; not configured,Validate current category/import/enhanced-conversion requirements
+Contractor inquiry,Submit lead form,Primary B2B,One,TBD,Valid trade/project fit,Specification only; not configured,Validate current category/import/enhanced-conversion requirements
+Site walkthrough scheduled,Book appointment,Primary offline B2B,One,TBD,Accepted walkthrough,Specification only; not configured,Validate current category/import/enhanced-conversion requirements
+Proposal sent,Qualified lead,Down-funnel offline,One,Proposal value policy TBD,CRM-confirmed,Specification only; not configured,Validate current category/import/enhanced-conversion requirements
+Job won,Purchase,Down-funnel offline,One,Booked value TBD,Signed/accepted definition TBD,Specification only; not configured,Validate current category/import/enhanced-conversion requirements
+Revenue booked,Purchase,Value outcome,One,Actual reconciled revenue,Owner-approved definition,Specification only; not configured,Validate current category/import/enhanced-conversion requirements
+Gross profit booked,Purchase,Value outcome,One,Actual reconciled gross profit,Consistent cost policy,Specification only; not configured,Validate current category/import/enhanced-conversion requirements
+Click-to-call,Contact,Secondary,Every,None,Diagnostic only,Specification only; not configured,Validate current category/import/enhanced-conversion requirements
+Form start,Begin checkout,Secondary,Every,None,Diagnostic only,Specification only; not configured,Validate current category/import/enhanced-conversion requirements
+Photo upload,Contact,Secondary,Every,None,Privacy/workflow required,Specification only; not configured,Validate current category/import/enhanced-conversion requirements
+Email click,Contact,Secondary,Every,None,Diagnostic only,Specification only; not configured,Validate current category/import/enhanced-conversion requirements
+Gallery engagement,Page view,Secondary,Every,None,Diagnostic only,Specification only; not configured,Validate current category/import/enhanced-conversion requirements
+Directions request,Directions,Secondary,Every,None,Diagnostic only,Specification only; not configured,Validate current category/import/enhanced-conversion requirements
+Service-page engagement,Page view,Secondary,Every,None,Diagnostic only,Specification only; not configured,Validate current category/import/enhanced-conversion requirements

@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-07-20 — Phase 4 Google Ads production package
+
+- Added the complete offline Google Search architecture for Brand, Refinishing, Dust-Controlled Sanding, Installation, Repair/Restoration, Historic/Heart Pine, Commercial, Contractor/Builder, and Northshore, with stairs held.
+- Added account, location, bidding, budget, conversion, launch, optimization, query-review, ad-testing, Performance Max, and LSA readiness documents.
+- Added paused CSV specifications for campaigns, ad groups, classified keywords, shared/campaign negatives, two-concept RSAs, assets, location targets, and conversion actions.
+- Recorded platform-verification limitations, owner decisions required, Phase 4 assumptions/decisions, and gated next actions. No live account was connected or changed; no ads were published and no money was spent.
+
 All notable repository changes are documented here.
 
 ## 2026-07-20 — Phase 3: Brand Positioning and Offer Architecture

@@ -1,0 +1,33 @@
+Scope,Asset type,Text,Final URL,Status,Requirements or rule
+Account,Sitelink,Hardwood Refinishing,https://www.noladustless.com/hardwood-floor-refinishing/,Hold until page/content verified,Validate current platform limits/policy; owner and proof approval
+Account,Sitelink,Dust-Controlled Sanding,https://www.noladustless.com/dust-controlled-floor-sanding/,Hold until page/content verified,Validate current platform limits/policy; owner and proof approval
+Account,Sitelink,Hardwood Installation,https://www.noladustless.com/hardwood-floor-installation/,Hold until page/content verified,Validate current platform limits/policy; owner and proof approval
+Account,Sitelink,Floor Repair,https://www.noladustless.com/hardwood-floor-repair-restoration/,Hold until page/content verified,Validate current platform limits/policy; owner and proof approval
+Account,Sitelink,Historic Restoration,https://www.noladustless.com/historic-hardwood-restoration/,Hold until page/content verified,Validate current platform limits/policy; owner and proof approval
+Account,Sitelink,Commercial Flooring,https://www.noladustless.com/commercial-hardwood-flooring/,Hold until page/content verified,Validate current platform limits/policy; owner and proof approval
+Account,Sitelink,Contractor Partnerships,https://www.noladustless.com/contractor-partnerships/,Hold until page/content verified,Validate current platform limits/policy; owner and proof approval
+Account,Sitelink,Request an Estimate,https://www.noladustless.com/contact/,Hold until page/content verified,Validate current platform limits/policy; owner and proof approval
+Account,Sitelink,Service Areas,https://www.noladustless.com/service-areas/,Hold until page/content verified,Validate current platform limits/policy; owner and proof approval
+Account,Sitelink,Our Process,https://www.noladustless.com/our-process/,Hold until page/content verified,Validate current platform limits/policy; owner and proof approval
+Account,Sitelink,Project Gallery,https://www.noladustless.com/gallery/,Hold until page/content verified,Validate current platform limits/policy; owner and proof approval
+Account,Sitelink,Reviews,https://www.noladustless.com/reviews/,Hold until page/content verified,Validate current platform limits/policy; owner and proof approval
+Account,Callout,Residential and Commercial,,Proposed,Validate current platform limits/policy; owner and proof approval
+Account,Callout,Dust-Controlled Sanding,,Proposed,Validate current platform limits/policy; owner and proof approval
+Account,Callout,Clear Project Scopes,,Proposed,Validate current platform limits/policy; owner and proof approval
+Account,Callout,"Repair, Restore, Install",,Proposed,Validate current platform limits/policy; owner and proof approval
+Account,Callout,Professional Communication,,Proposed,Validate current platform limits/policy; owner and proof approval
+Account,Structured snippet: Services,Refinishing,,Proposed,Validate current platform limits/policy; owner and proof approval
+Account,Structured snippet: Services,Installation,,Proposed,Validate current platform limits/policy; owner and proof approval
+Account,Structured snippet: Services,Floor Repair,,Proposed,Validate current platform limits/policy; owner and proof approval
+Account,Structured snippet: Services,Restoration,,Proposed,Validate current platform limits/policy; owner and proof approval
+Account,Call asset,TBD verified business phone,,Hold until call handling/tracking approved,Validate current platform limits/policy; owner and proof approval
+Account,Location asset,TBD linked verified Business Profile,,Hold until profile/address/service-area approval,Validate current platform limits/policy; owner and proof approval
+Account,Business name,NOLA Dustless Hardwood Floors,,Hold until identity/character validation,Validate current platform limits/policy; owner and proof approval
+Account,Logo,TBD approved square and landscape files,,Hold until rights/formats verified,Validate current platform limits/policy; owner and proof approval
+Account,Image,Real permissioned project images only,,Hold until rights/formats and page relevance verified,Validate current platform limits/policy; owner and proof approval
+Account,Lead form,Not recommended at launch; test after privacy and CRM routing,,Later test,Validate current platform limits/policy; owner and proof approval
+Account,Price,Do not use until exact public pricing and scope terms approved,,Hold,Validate current platform limits/policy; owner and proof approval
+Account,Promotion,"No promotion without real terms, dates, economics and approval",,Hold,Validate current platform limits/policy; owner and proof approval
+Account,Callout,Licensed and Insured,,Hold pending verification,Validate current platform limits/policy; owner and proof approval
+Account,Callout,Historic-Floor Experience,,Hold pending proof,Validate current platform limits/policy; owner and proof approval
+Account,Callout,Local Hardwood Specialists,,Hold pending wording approval,Validate current platform limits/policy; owner and proof approval

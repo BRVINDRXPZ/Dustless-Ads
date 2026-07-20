@@ -1,0 +1,18 @@
+Campaign,Negative keyword,Match type,Status,Reason,Safeguard
+Search | Core | Brand | All,mississippi,Phrase,Proposed,Unapproved expansion geography,Remove only after explicit territory approval
+Search | Core | Refinishing | Residential,mississippi,Phrase,Proposed,Unapproved expansion geography,Remove only after explicit territory approval
+Search | Core | Dust Controlled Sanding | Residential,mississippi,Phrase,Proposed,Unapproved expansion geography,Remove only after explicit territory approval
+Search | Core | Installation | Residential,mississippi,Phrase,Proposed,Unapproved expansion geography,Remove only after explicit territory approval
+Search | Core | Repair Restoration | Residential,mississippi,Phrase,Proposed,Unapproved expansion geography,Remove only after explicit territory approval
+Search | Core | Historic Heart Pine | Residential,mississippi,Phrase,Proposed,Unapproved expansion geography,Remove only after explicit territory approval
+Search | Core | Commercial | B2B,mississippi,Phrase,Proposed,Unapproved expansion geography,Remove only after explicit territory approval
+Search | Core | Contractor Builder | B2B,mississippi,Phrase,Proposed,Unapproved expansion geography,Remove only after explicit territory approval
+Search | Northshore | Hardwood Services | Residential,mississippi,Phrase,Proposed,Unapproved expansion geography,Remove only after explicit territory approval
+Search | Core | Refinishing | Residential,commercial flooring bid,Phrase,Proposed,Route B2B intent,Activate only when B2B campaign/page is ready; otherwise review rather than discard
+Search | Core | Refinishing | Residential,flooring subcontractor,Phrase,Proposed,Route B2B intent,Activate only when B2B campaign/page is ready; otherwise review rather than discard
+Search | Core | Dust Controlled Sanding | Residential,commercial flooring bid,Phrase,Proposed,Route B2B intent,Activate only when B2B campaign/page is ready; otherwise review rather than discard
+Search | Core | Dust Controlled Sanding | Residential,flooring subcontractor,Phrase,Proposed,Route B2B intent,Activate only when B2B campaign/page is ready; otherwise review rather than discard
+Search | Core | Installation | Residential,commercial flooring bid,Phrase,Proposed,Route B2B intent,Activate only when B2B campaign/page is ready; otherwise review rather than discard
+Search | Core | Installation | Residential,flooring subcontractor,Phrase,Proposed,Route B2B intent,Activate only when B2B campaign/page is ready; otherwise review rather than discard
+Search | Core | Repair Restoration | Residential,commercial flooring bid,Phrase,Proposed,Route B2B intent,Activate only when B2B campaign/page is ready; otherwise review rather than discard
+Search | Core | Repair Restoration | Residential,flooring subcontractor,Phrase,Proposed,Route B2B intent,Activate only when B2B campaign/page is ready; otherwise review rather than discard
