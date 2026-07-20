@@ -31,5 +31,14 @@ Use this file to track questions that require owner clarification or approval.
 25. Select the Northshore city/location to use for the consistent third-location SERP and Maps baseline.
 26. Identify who collected each evidence batch (initials are sufficient) and confirm that screenshots have been checked for customer/private data before repository upload.
 27. Confirm whether any lawful, owner-controlled Search Console, Google Business Profile, analytics, review, or social exports can be supplied for NOLA Dustless; provide only sanitized exports and never credentials.
+28. Approve, revise, or reject the Phase 3 recommended position and internal “Clear Judgment. Controlled Process. Hardwood Work You Can Verify.” platform; this is not a tagline decision.
+29. Decide whether to retain “Quality You Can Stand On” unchanged, test it against proposed platforms, or consider a later change; do not publish a new tagline yet.
+30. Define whether assessments/consultations are complimentary, paid, or credited; specify outputs, minimums, service areas, scheduling rules, and who owns each offer.
+31. Approve the photo-review intake fields, privacy/retention process, response owner, response expectations, and disclaimer that it is not a diagnosis, estimate, or feasibility guarantee.
+32. Confirm the products/finish systems currently used and provide approved technical data, SDS sources, sampling process, cure/return-to-use rules, odor/ventilation wording, and care guidance.
+33. Confirm contractor/commercial bid/no-bid rules, acceptable contract/payment terms, vendor documents, site-safety responsibilities, change-condition process, night/phased-work capability, and capacity limits.
+34. Approve the evidence threshold and exact wording, if any, for “hardwood specialist,” “historic-floor specialist,” “commercial,” “Greater New Orleans,” and Northshore positioning.
+35. Identify the approver and recordkeeping process for claims, project facts, media/review permissions, expiry/recheck dates, corrections, and withdrawals.
+36. Approve, revise, or reject the proposed disqualifiers and walk-away conditions in the personas and objection framework.
 
 Do not answer these questions yourself unless the repository contains verified information.

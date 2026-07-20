@@ -1,6 +1,6 @@
 # Next Actions
 
-**Current phase:** Phase 2B evidence-validation system complete; owner-supplied public evidence collection and owner decisions are the next gate.
+**Current phase:** Phase 3 positioning and offer architecture complete as an internal recommendation; owner decisions, proof, operational design, and Phase 2B evidence remain the gate before external production.
 
 **Rule:** A planning item is not authorization to publish, spend, contact anyone, connect an account, or modify a live system.
 
@@ -20,6 +20,11 @@
 | 10 | Re-score the 30-day roadmap after live evidence and baselines | Strategy | Priorities 1–9 | Approved backlog and explicit next-phase authorization gates | Not started |
 | 11 | Build the internal project proof and permission register | Owner + creative | Approved source locations and claims/permission facts | Five verified case briefs and matched before/process/after sets, with allowed-use fields | Awaiting owner |
 | 12 | Define contractor/commercial readiness and bid-intake requirements | Owner + operations | Accepted scopes, credentials, capacity, verticals, and geography | Capability checklist and intake specification; no outreach | Awaiting owner |
+| 13 | Review and decide the Phase 3 position, message hierarchy, voice, tagline test set, and claim boundaries | Owner + strategy | Phase 3 package; evidence questions | Exact approved/rejected/revised language recorded; no publication | Awaiting owner |
+| 14 | Design the photo-based review and assessment operating workflow | Owner + operations | Minimums, territory, privacy, outputs, fees, response capacity | Approved internal SOP, routing, disclaimers, and tracking specification | Awaiting owner |
+| 15 | Build claims and proof register from verified records | Owner + strategy + creative | Credentials, process documents, product data, permissions | Each proposed claim linked to evidence, scope, permission, approver, and recheck date | Awaiting owner evidence |
+| 16 | Operationalize contractor/commercial accountability before messaging it | Owner + operations | Vendor readiness, capacity, terms, site process | Approved bid/no-bid, intake, communication, change, phasing, and closeout process | Awaiting owner |
+| 17 | Establish baseline and implementation requirements for Phase 3 message tests | Strategy + tracking | Lifecycle, traffic/channel access, proof-cleared copy | Pre-registered test briefs with power/evidence basis and guardrails; not launched | Blocked by tracking and approval |
 
 ## Owner Review Checklist
 
@@ -42,6 +47,13 @@
 - Relabeled the competitor matrix, whitespace scoring, rankings, gap analysis, and domination thesis as provisional where live support is missing.
 - Created the central evidence register, 35-company validation queue, and separate SERP, Maps, review, social, and paid-search capture templates.
 - Created a nontechnical owner collection workflow, evidence-gap register, and safely gated interim positioning hypotheses.
+
+## Completed in Phase 3
+
+- Recommended a proof-led decision-and-execution position with audience variants and an explicit rejection posture.
+- Created message hierarchy, 13 planning personas, brand voice, claims/proof policy, and 19-objection response framework.
+- Designed 14 value-based offers, a structured offer matrix, positioning scorecard, 26 scored tagline/campaign options, and nine controlled message-test specifications.
+- Preserved the current tagline and kept every public claim, offer launch, ad, page, outreach, spend, and live change behind owner/evidence/operations approval.
 
 ## Do Not Start Yet
 
