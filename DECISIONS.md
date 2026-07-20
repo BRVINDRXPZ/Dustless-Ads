@@ -12,6 +12,10 @@ This file records durable decisions so later phases do not overwrite approved di
 | D-006 | 2026-07-20 | Phase 1 will not perform competitor research, create ads, build landing pages, publish, spend, conduct outreach, connect accounts, or modify live systems. | Task instruction | Active |
 | D-007 | 2026-07-20 | Unknown baselines and targets will be labeled as requiring evidence or owner input rather than estimated as fact. | Phase 1 governance | Active |
 | D-008 | 2026-07-20 | Alternative positioning concepts listed in business context remain concepts until explicitly approved. | Repository context | Active |
+| D-009 | 2026-07-20 | Phase 2 will prioritize a verified project-proof system and service × geography Search/Maps strategy, subject to owner approval and live evidence validation. | Phase 2 strategic conclusion | Proposed; not public |
+| D-010 | 2026-07-20 | Residential, contractor, historic, and commercial audiences require distinct proof and conversion paths; a generic all-audience message is not the proposed strategy. | Phase 2 strategic conclusion | Proposed; not public |
+| D-011 | 2026-07-20 | NOLA Dustless will not repeat competitor-style dust-free, superiority, credential, experience, species, project, warranty, speed, or service-area claims without substantiation and permission. | Phase 2 claim audit + repository guardrails | Active |
+| D-012 | 2026-07-20 | Phase 2 produces research and specifications only: no ads, landing pages, publishing, outreach, spend, account connections, or live changes. | Task instruction | Active |
 
 ## Pending Decisions
 
