@@ -2,6 +2,26 @@
 
 All notable repository changes are documented here.
 
+## 2026-07-20 — Phase 2B: Market Intelligence Evidence Validation
+
+### Added
+
+- Central evidence register seeded with repository facts, provisional competitor rankings, market-gap hypotheses, and the paid-search observation limitation.
+- A 35-company validation queue with priorities, queries, surfaces, screenshot requirements, and status controls.
+- Dedicated SERP, Google Maps, social, review, and paid-search CSV capture templates.
+- Plain-language owner research instructions covering incognito searches, context capture, rankings, Maps, sponsored results, reviews, websites/offers, five social platforms, screenshot naming, privacy, and repository handoff.
+- File-by-file Phase 2 evidence-gap audit and interim positioning hypotheses with support, missing evidence, confidence, invalidation conditions, and safe-action gates.
+
+### Updated
+
+- Relabeled factual-looking competitor matrix fields, rankings, whitespace scores, social gaps, readiness scores, and thesis conclusions as provisional judgments or inferences where dated evidence is absent.
+- Expanded assumptions, decisions, owner questions, and next actions with durable evidence-governance rules and the owner evidence-collection gate.
+
+### Guardrails
+
+- No live competitor claim was invented or promoted to verified status.
+- No ads, landing pages, competitor comparisons, publishing, outreach, spending, account connections, or live-system changes were performed.
+
 ## 2026-07-20 — Phase 2: Greater New Orleans Flooring Market Intelligence
 
 ### Added

@@ -3,6 +3,8 @@
 **Status:** Proposed Phase 2 strategy; not approved public positioning.  
 **Date:** 2026-07-20
 
+**Phase 2B evidence notice:** every market-gap, competitor-rank, audience-position, and channel-opportunity conclusion below is an inference unless it cites repository policy. Current competitor Search, Maps, review, paid, social, service-area, and positioning evidence is missing. Use `INTERIM_POSITIONING_HYPOTHESES.md` until validation is complete.
+
 ## Thesis
 
 NOLA Dustless can become a frequently considered hardwood specialist by owning the decision moments that broad flooring retailers and generic remodelers are structurally less suited to explain: whether to restore, repair, refinish, or install; how work will affect an occupied property; how old New Orleans floors should be evaluated; and how a specialist will document and coordinate the job.
@@ -66,16 +68,16 @@ Sell planning and accountability rather than generic capability: phasing, access
 
 | Question | Conclusion |
 |---|---|
-| Five weakest market areas | Proof architecture; historic specificity; contractor procurement path; commercial logistics specificity; search-to-conversion continuity |
+| Five weakest market areas | **Provisional inference:** proof architecture; historic specificity; contractor procurement path; commercial logistics specificity; search-to-conversion continuity |
 | Five strongest competitors | Provisional: Floorcrafters; NOLA Hardwood Floors; Footprints Floors; Floor & Decor; ProSource |
 | Five growth blockers | Provisional: NOLA Hardwood Floors; Floorcrafters; Footprints Floors; ProSource; Floor & Decor |
 | Ten easiest opportunities | Asset permission inventory; matched proof; dust wording; qualification; review SOP; five case briefs; contractor checklist; shot list; NAP fact sheet; live SERP refresh |
-| Residential gap | Restore/repair/refinish/install judgment backed by visible proof |
-| Contractor gap | Procurement-ready hardwood specialist with structured bid intake and communication |
-| Commercial gap | Phasing- and operations-aware hardwood specialist for selected verticals |
-| Historic gap | Documented New Orleans restoration judgment—not generic “old floor” imagery |
-| Social gap | Cross-platform diagnosis-to-outcome proof library |
-| Search/Maps gap | Truthful service × place evidence graph around refinishing/restoration and approved geographies |
+| Residential gap | **Provisional inference:** restore/repair/refinish/install judgment backed by visible proof |
+| Contractor gap | **Provisional inference:** procurement-ready hardwood specialist with structured bid intake and communication |
+| Commercial gap | **Provisional inference:** phasing- and operations-aware hardwood specialist for selected verticals |
+| Historic gap | **Provisional inference:** documented New Orleans restoration judgment—not generic “old floor” imagery |
+| Social gap | **Provisional inference:** cross-platform diagnosis-to-outcome proof library |
+| Search/Maps gap | **Provisional inference:** truthful service × place evidence graph around refinishing/restoration and approved geographies |
 | Claims to avoid | Dust-free, #1/best, unverified credentials/history/species/projects, blanket guarantees |
 | Current credibility gaps | Credentials, proof permissions, historic/commercial cases, reviews, territory, economics, capacity, SLAs, attribution |
 

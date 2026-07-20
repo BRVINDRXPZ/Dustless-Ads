@@ -16,6 +16,9 @@ This file records durable decisions so later phases do not overwrite approved di
 | D-010 | 2026-07-20 | Residential, contractor, historic, and commercial audiences require distinct proof and conversion paths; a generic all-audience message is not the proposed strategy. | Phase 2 strategic conclusion | Proposed; not public |
 | D-011 | 2026-07-20 | NOLA Dustless will not repeat competitor-style dust-free, superiority, credential, experience, species, project, warranty, speed, or service-area claims without substantiation and permission. | Phase 2 claim audit + repository guardrails | Active |
 | D-012 | 2026-07-20 | Phase 2 produces research and specifications only: no ads, landing pages, publishing, outreach, spend, account connections, or live changes. | Task instruction | Active |
+| D-013 | 2026-07-20 | Phase 2 competitor-specific facts and strategic conclusions may be promoted from provisional only when linked to dated, contextual evidence in the evidence register; a company statement verifies only that the statement was observed unless independently substantiated. | Phase 2B evidence governance | Active |
+| D-014 | 2026-07-20 | A single Search, Maps, ad, review, or social capture must not be represented as permanent rank, absence, activity, or performance; preserve context and repeat volatile observations. | Phase 2B evidence governance | Active |
+| D-015 | 2026-07-20 | Interim positioning remains hypothesis-only until market evidence, NOLA capability/proof, and explicit owner approval support final language. | Task instruction + Phase 2B | Active |
 
 ## Pending Decisions
 
