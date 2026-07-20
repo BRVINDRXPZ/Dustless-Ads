@@ -1,0 +1,23 @@
+Page,Type,Search intent,Revenue potential,Service relevance,Geographic relevance,Proof availability,Cannibalization risk,Thin-content risk,Operational fit,Build priority
+Hardwood floor refinishing,service,9,9,10,8,8,2,2,9,1
+Dust-controlled sanding,service,8,8,10,8,8,2,2,9,1
+Hardwood installation,service,9,9,9,7,8,2,2,8,1
+Hardwood repair,service,8,8,9,7,8,3,3,8,1
+Historic-floor restoration,service,7,8,8,3,8,4,5,7,2-proof
+Heart-pine restoration,service,6,7,7,2,7,5,6,6,3-proof
+Commercial flooring,service,7,9,7,2,7,3,5,6,3-proof
+Contractor partnerships,service,6,8,7,2,7,2,4,7,3-proof
+Stair refinishing,service,6,6,8,4,6,6,6,7,4-section first
+Screen and coat,service,7,6,8,4,7,5,5,7,4-guide/section
+New Orleans,geographic,9,9,10,6,9,3,3,9,1
+Metairie,geographic,8,8,9,4,7,4,5,8,2-proof
+Kenner,geographic,6,6,7,2,5,5,7,6,4-hold
+Uptown,geographic,7,7,8,2,7,7,7,8,4-cluster
+Garden District,geographic,6,7,7,2,7,8,8,7,4-cluster
+Lakeview,geographic,6,6,7,2,6,7,7,7,4-cluster
+Mid-City,geographic,6,6,7,2,6,7,7,7,4-cluster
+Marigny and Bywater,geographic,6,6,6,2,7,6,7,6,4-cluster
+Mandeville,geographic,7,8,7,2,6,5,7,5,4-hold
+Covington,geographic,7,8,7,2,6,5,7,5,4-hold
+Slidell,geographic,6,6,6,1,5,5,8,4,5-hold
+Northshore,geographic,7,8,7,2,6,5,6,5,3-hub after approval
