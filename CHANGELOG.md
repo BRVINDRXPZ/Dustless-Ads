@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-07-20 — Phase 8 B2B acquisition system
+
+- Added the complete `b2b/` contractor, commercial, hospitality, institutional, specifier and referral acquisition operating system: profiles, segmentation, scoring, value propositions, proof-gated capability drafts, partner/bid/site/vendor workflows, restrained outreach libraries, follow-up/reactivation, account management, pipeline registers, case/portfolio/content/page requirements, metrics and 30/90-day plans.
+- Established separate account and opportunity qualification, bid/no-bid and capacity controls, proof/vendor readiness gates, permission/suppression rules, lost-opportunity learning, and revenue/gross-profit reconciliation without fabricated values.
+- Added Phase 8 assumptions, durable decisions, owner questions 76–87 and an approval-gated execution queue. No party was contacted; no email/SMS/call/DM was sent; no CRM was connected; nothing was published, scraped, purchased or spent; no credentials, projects, references, pricing or commercial readiness were invented.
+
 ## 2026-07-20 — Phase 4 Google Ads production package
 
 - Added the complete offline Google Search architecture for Brand, Refinishing, Dust-Controlled Sanding, Installation, Repair/Restoration, Historic/Heart Pine, Commercial, Contractor/Builder, and Northshore, with stairs held.

@@ -1,0 +1,12 @@
+Field,Object,Type,Required When,Allowed Values/Rule,System of Record,Owner,Evidence/Privacy Note
+Account ID,Account,Text,Always,Unique non-PII key,B2B register,Relationship owner,No invented account
+Opportunity ID,Opportunity,Text,Opportunity exists,Unique key,Opportunity register,Opportunity owner,No project address in public output
+Segment,Both,Picklist,Always,20 approved segments,B2B register,Owner,Distinct workflow
+Stage,Both,Picklist,Always,Use PIPELINE_STAGES.md,Register/approved CRM later,Owner,No CRM connected
+Permission status,Contact,Picklist,Before outreach,Unknown; Business-context allowed; Permissioned; Opted out; Do not contact,Activity register,Owner,Honor suppression
+Proposal value,Opportunity,Currency,Proposal issued,Exact approved proposal; blank otherwise,Approved proposal system,Estimator,Confidential
+Gross margin estimate,Opportunity,Percent/Currency,Approved estimate exists,Assumption-labeled; restricted,Approved costing system,Owner,Never public
+Probability assumption,Opportunity,Decimal,Weighted planning used,Owner-approved assumption; blank allowed,Register,Owner,Not fact
+Weighted pipeline,Opportunity,Formula,Inputs exist,Proposal value × probability assumption,Register,Analytics,Not forecast
+Revenue/Gross profit,Opportunity,Currency,Reconciled,Approved accounting source only,Accounting,Owner,Restricted
+Next action/date,Both,Text/Date,Nonterminal,One action and date,Register,Owner,Required discipline
