@@ -60,3 +60,11 @@ Owner decisions remain centralized in `OWNER_INPUT_REQUIRED.md`. When resolved, 
 | D-048 | 2026-07-20 | Use qualified leads, wins, reconciled revenue and reconciled gross profit as the command-center decision spine; lower-level metrics remain diagnostic and cannot override business outcomes. | Task instruction + Phase 9 architecture | Active |
 | D-049 | 2026-07-20 | Adopt primary lead/opportunity source with preserved first touch and non-additive assists as the proposed practical attribution default; Unknown remains visible and no fractional precision is invented. | Phase 9 attribution design | Proposed; owner approval required |
 | D-050 | 2026-07-20 | Hold advanced attribution, offline value bidding, forecasting and customer-facing automation until IDs, sources, stages, consent, revenue, costs and reconciliation pass governed QA. | Phase 9 control design | Active |
+
+## Phase 10 durable controls — 2026-07-20
+
+1. Phase 10 launch controls in `launch/` are the active operating layer; broad Phase 2–9 systems remain reference specifications until their gates are met.
+2. Paid activity is NO-GO until the binary checklist and written approval form are complete; blank, unknown or failed means NO.
+3. The minimum viable paid set is limited to independently eligible Brand Defense, Refinishing, Dust-Controlled Sanding and Installation. Repair is conditional; commercial, contractor, historic/heart pine, Northshore, stairs, Performance Max, broad match, display and paid social remain held.
+4. Production work is limited to selected MVP pages and the end-to-end lead path. The static prototype will not be deployed as-is.
+5. No live platform connection/change, publication, contact, credential insertion, real-data import, spend or campaign launch was authorized or performed in Phase 10.

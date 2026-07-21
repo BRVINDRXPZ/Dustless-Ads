@@ -63,3 +63,11 @@ Assumptions are not verified facts. Each must be confirmed, rejected, or replace
 | A-048 | Primary lead/opportunity source plus immutable first touch and non-additive assists is more auditable than fractional multi-touch attribution at current data maturity. | Avoids false precision in revenue and gross-profit decisions. | Reconcile real internal records after owner approval and compare coverage/conflicts. | Proposed Phase 9 attribution default |
 | A-049 | Revenue and gross-profit reporting cannot be reliable until an owner/accountant-approved recognition and direct-cost policy is joined to unique project IDs. | Prevents booked value, cash and profit from being conflated. | Define policy; run monthly invoice/payment/job-cost reconciliation. | Active Phase 9 guardrail |
 | A-050 | Internal validation, tasks and draft reports should precede customer-facing automation. | Reduces consent, reputation and operational risk. | Synthetic QA, human workload review, explicit per-workflow owner approval. | Proposed Phase 9 automation sequence |
+
+## Phase 10 activation assumptions — 2026-07-20
+
+- The current website stack, account access, production forms, call tracking, analytics, CRM, proof permissions, budgets and operational limits remain unverified; absence from this repository is not proof they do not exist.
+- A restricted manual lead register is proposed only as the lowest-complexity launch option; owner/security/export validation is still required.
+- Current-site integration is the preferred conditional path for selected MVP pages, not a decision; a separate owner-controlled host is a fallback after technical audit.
+- The static prototype is non-production reference material and is not safe to deploy or collect leads.
+- Scores in the Phase 10 readiness scorecard measure repository evidence/implementation status, not business quality or predicted performance.
