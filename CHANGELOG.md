@@ -130,3 +130,10 @@ All notable repository changes are documented here.
 - Added the complete `social/` strategy, platform, pillar, 13-franchise, hook, script, caption, CTA, capture, editing, cover, approval, posting, engagement, DM, testing, paid-readiness, partnership, risk, and 30-day sprint system.
 - Added a 90-day daily production/publishing/measurement calendar, repurposing matrix, performance scorecard with weighted business-value formula, and permission-led asset register.
 - Added Phase 7 assumptions, decisions, owner questions 66–75, and reprioritized next actions. No content was published, no account connected, no party contacted, and no spend initiated.
+
+## 2026-07-20 — Phase 10 owner activation and minimum viable launch control
+
+- Added the `launch/` control layer: evidence-based readiness scorecard; owner action/decision, access, proof, permission registers; technical/operational/legal/platform gates; minimal website, tracking and CRM implementation plans; narrow Ads/GBP/social/B2B activation plans; 30/90-day plans; weekly scorecard; written approval and binary go/no-go controls; and concise executive brief.
+- Consolidated the prior 99-item owner queue into 12 unresolved categories without silently resolving owner questions, and changed `NEXT_ACTIONS.md` to a strict activation order.
+- Marked prior Phase 2–9 strategies and prototypes as reference specifications; Phase 10 launch files are active controls, while owner-completed CSVs/forms are required inputs. No major prior work was deleted.
+- Recorded conditional assumptions and durable holds. No live account was connected or modified; nothing was published, contacted, deployed or spent; no credential, budget, proof, permission, performance or business fact was invented.

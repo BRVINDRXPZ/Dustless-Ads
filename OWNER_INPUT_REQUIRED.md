@@ -1,109 +1,45 @@
-# Owner Input Required
+# Owner Input Required — Phase 10 Consolidated Queue
 
-Use this file to track questions that require owner clarification or approval.
+**Status:** Unresolved. This file replaces the duplicated 99-item phase-by-phase queue as the active index; it does not resolve any question. Complete the detailed fields in `launch/OWNER_ACTION_CHECKLIST.md`, `launch/OWNER_DECISION_REGISTER.csv`, and launch registers. Prior phase questions remain recoverable in Git history and their source documents remain reference-only.
 
-## Current questions
+## P0 — revenue launch blockers
 
-1. Confirm the exact licensed and insured language approved for public use.
-2. Confirm the complete current service area.
-3. Confirm the most profitable service categories.
-4. Confirm the minimum desirable residential project size.
-5. Confirm which commercial project categories should be pursued most aggressively.
-6. Confirm whether pricing ranges may be used publicly.
-7. Confirm which project names may be publicly referenced.
-8. Confirm which customer reviews and project photographs have permission for marketing use.
-9. Confirm current monthly advertising budget options.
-10. Confirm lead-handling hours and response capacity.
-11. Confirm whether Northshore jobs should have separate minimum project requirements.
-12. Confirm whether “The NOLA Floor Guys” may be used as a campaign identity.
-13. Confirm current access to Google Ads, Analytics, Search Console, Google Business Profile, Meta, and website administration.
-14. Confirm the exact dust-control equipment, containment steps, cleanup process, expected limitations, and approved public wording; specifically say whether “dustless” may appear outside the company name.
-15. Identify every completed historic, antique-pine, and heart-pine project that can be substantiated, including how species was identified and what media may be used.
-16. Identify completed commercial, hotel, restaurant, church, institutional, and contractor projects that may be referenced, with scope and permission boundaries.
-17. Confirm accepted installation methods, repair scopes, screen-and-coat candidacy, subfloor work, and work the company does not perform.
-18. Confirm contractor onboarding readiness: license/insurance documents, W-9/COI process, bid inputs, estimating turnaround, service territory, crew capacity, and point of contact.
-19. Confirm which Northshore towns are actively served, minimum scope/travel rules, scheduling cadence, and whether local project proof exists.
-20. Confirm whether there is a written warranty, satisfaction policy, manufacturer training/certification, or finish-system guidance approved for public use.
-21. Approve or revise the proposed residential, contractor, commercial, and historic positioning gaps in `research/MARKET_WHITESPACE.md` before any public use.
-22. Provide or approve a safe method for a dated live SERP, Maps, website, review, ad, and social baseline; this Phase 2 environment could not access public web surfaces.
-23. Confirm a content-capture owner, realistic weekly capture/editing capacity, and permission workflow.
-24. Provide the first owner-collected evidence batch using `research/OWNER_RESEARCH_INSTRUCTIONS.md`: Priority 1 competitors, the mapped refinishing/restoration/installation queries, New Orleans and Metairie contexts, desktop and mobile, with dates and screenshots.
-25. Select the Northshore city/location to use for the consistent third-location SERP and Maps baseline.
-26. Identify who collected each evidence batch (initials are sufficient) and confirm that screenshots have been checked for customer/private data before repository upload.
-27. Confirm whether any lawful, owner-controlled Search Console, Google Business Profile, analytics, review, or social exports can be supplied for NOLA Dustless; provide only sanitized exports and never credentials.
-28. Approve, revise, or reject the Phase 3 recommended position and internal “Clear Judgment. Controlled Process. Hardwood Work You Can Verify.” platform; this is not a tagline decision.
-29. Decide whether to retain “Quality You Can Stand On” unchanged, test it against proposed platforms, or consider a later change; do not publish a new tagline yet.
-30. Define whether assessments/consultations are complimentary, paid, or credited; specify outputs, minimums, service areas, scheduling rules, and who owns each offer.
-31. Approve the photo-review intake fields, privacy/retention process, response owner, response expectations, and disclaimer that it is not a diagnosis, estimate, or feasibility guarantee.
-32. Confirm the products/finish systems currently used and provide approved technical data, SDS sources, sampling process, cure/return-to-use rules, odor/ventilation wording, and care guidance.
-33. Confirm contractor/commercial bid/no-bid rules, acceptable contract/payment terms, vendor documents, site-safety responsibilities, change-condition process, night/phased-work capability, and capacity limits.
-34. Approve the evidence threshold and exact wording, if any, for “hardwood specialist,” “historic-floor specialist,” “commercial,” “Greater New Orleans,” and Northshore positioning.
-35. Identify the approver and recordkeeping process for claims, project facts, media/review permissions, expiry/recheck dates, corrections, and withdrawals.
-36. Approve, revise, or reject the proposed disqualifiers and walk-away conditions in the personas and objection framework.
-37. Approve a Phase 4 budget scenario and exact monthly/daily ceilings; provide service-specific CPC planning data, click-to-lead, qualified-lead, estimate, close, project value, gross margin, maximum CAC, conversion lag, and capacity inputs where known.
-38. Approve or revise the proposed launch subset, campaign allocation, and service-level stop/scale rules in `google-ads/CAMPAIGN_ARCHITECTURE.md` and `google-ads/BUDGET_SCENARIOS.md`.
-39. Confirm exact landing-page URLs and whether each service page/offer may be produced; approve assessment/free-estimate wording, outputs, fees, minimums, and disclaimers before ads.
-40. Confirm the verified business name, phone, answered-call schedule, missed-call workflow, legal entity, advertiser-verification owner, Google Business Profile relationship, and permitted logo/project assets for ad assets.
-41. Define the CRM/system of record, qualified-call/form rules, spam/test handling, call-duration review, consent/call-recording policy, GCLID/GBRAID/WBRAID handling, offline stage timestamps, value/correction policy, and implementation owner.
-42. Confirm whether stair/tread work merits a later ad group or campaign using actual minimum scope, project economics, service boundaries, capacity, and Keyword Planner/search-term evidence.
-43. Approve exact New Orleans, Jefferson Parish, Westbank, and Northshore cities/ZIPs, exclusions, travel minimums, and reciprocal campaign exclusions; Mississippi remains excluded without approval.
-44. Assign an operator to validate current official Google Ads/Editor requirements and LSA eligibility because public browsing failed, and retain dated evidence without credentials/private documents.
+### 1. Owner facts
+- Verify legal entity, real-world public name, public phone/email, address-display policy, regular/special hours, opening/business facts used publicly, eligible services/methods, license/insurance status and exact supporting documents.
 
+### 2. Owner decisions
+- Approve launch subset, positioning/message wording, offer/estimate language, pricing-publication stance, service minimums, core geography/exclusions, Northshore hold/rules, response schedule, capacity stops and final approvers.
 
-45. Approve the Phase 5 minimum viable page set and exact page priority; confirm refinishing, dust-controlled sanding, and installation are the first eligible paid-search services after all gates pass.
-46. Provide the production website stack/hosting owner, deployment process, staging environment, domain/canonical rules, and technical implementer; none are present in this repository.
-47. Approve the public phone number, call routing by business hours, after-hours/missed-call process, fallback number, and whether dynamic number insertion may be evaluated.
-48. Approve form-required fields, response routing, project-minimum messaging, file allowances, upload retention/deletion, duplicate window, rate-limit/security owner, and accessible spam-control approach.
-49. Select the CRM/system of record and assign owners for each Phase 5 lifecycle stage, disposition reason, timestamp, revenue definition, gross-profit definition, corrections, and offline upload review.
-50. Obtain legal/privacy review for form consent, text/email/phone response language, analytics/advertising consent, cookie/tag behavior, call recording/transcription stance, privacy notice, vendors, retention, and user-rights process.
-51. Approve the measurement architecture, primary conversion hierarchy, provisional 60-second call-review threshold, human qualified-call criteria, first/latest-touch rules, and eligible click/enhanced-conversion identifier handling.
-52. Supply an approved contact/brand asset pack: wordmark/logo rules, phone, address display policy, hours, CTA/offer wording, and favicon; no usable brand files are currently in the repository.
-53. Register permissioned, accurately captioned proof for the MVP pages: hero, matched before/after, process, crew/equipment as relevant, and service-matched reviews; approve customer and location-display permissions.
-54. Assign named reviewers for content/claims, operations, security/backend, CRM/tracking, privacy/legal, mobile/accessibility, and final written launch authorization.
+### 3. Account access
+- Identify owner/admin/recovery/MFA/billing/data owners for every platform in `launch/ACCESS_AND_OWNERSHIP_REGISTER.csv`; identify domain/DNS/CMS/hosting and Google/Meta account relationships. Never provide secrets in Git.
 
-Do not answer these questions yourself unless the repository contains verified information.
-55. Confirm the legal business name, exact real-world public name, eligible address/service-area configuration, address-display/privacy policy, primary phone, website/appointment URLs, email, opening date, regular/special hours, and holiday-hours owner for NAP v1.
-56. Identify the verified primary owner and managers of the Google Business Profile, recovery/2FA owner, former-user removal process, known duplicate profiles, warnings, suspensions, or prior category/name/address changes; provide no credentials.
-57. Authorize a read-only dated GBP audit and assign an operator to validate every current category, field, service, product, attribute, post, Q&A, contact/messaging, photo, review and performance option against official guidance and the live UI.
-58. Approve or revise the proposed GBP description version, service catalog, category-testing method, UTM approach and change/rollback governance; approval of copy does not authorize publication.
-59. Approve operational fit, minimum project rules, travel burden and launch/hold status separately for New Orleans core, Uptown/Garden District, Mid-City/Lakeview, Marigny/Bywater, Metairie, Kenner, River Ridge, Harahan, Westbank, Mandeville, Covington, Madisonville and Slidell; keep other Louisiana/Mississippi areas blocked meanwhile.
-60. Approve the universal review-eligibility cohort, request sender/channel/timing, one-reminder maximum, direct-link owner, opt-out handling, CRM states, response/escalation owners and proposed service levels; obtain current platform/legal review before live requests.
-61. Approve photo/video release language, asset storage and restricted project linkage, GPS stripping, crew/customer/property permissions, editing rules, revocation process and who performs privacy/color/claim QA.
-62. Identify which Tier 1 citations already exist and who owns them; approve a dated no-submission citation audit and later platform-by-platform correction process, costs and memberships.
-63. Approve the core-page versus local-page priorities in `local-seo/LOCAL_PAGE_SCORECARD.csv`, including whether New Orleans/Metairie have sufficient unique proof and whether all neighborhood/Northshore pages should remain held.
-64. Assign technical owners for current structured-data validation, Search Console ownership, sitemap/indexation/CWV/security review and a non-public manual map baseline; no account may be connected without separate approval.
-65. Approve which real contractor, supplier, preservation, design, property, hospitality, community or media relationships may enter a future outreach queue, plus value offered, proof, disclosure and spend limits; Phase 6 performed no outreach.
-66. Approve the Phase 7 initial franchises, three-core-idea weekly cadence, platform roles, proposed visual grammar, and whether “NOLA Floor Guys” may be tested as an identity; approval does not authorize publishing.
-67. Assign the content lead, capture lead, editor, fact/claims reviewer, privacy/permissions owner, final approver, publisher, community responder, complaint escalation owner, and performance/CRM owner.
-68. Inventory all existing photo/video/audio by internal project ID and confirm separate customer, property, project-name, location level, crew/likeness, testimonial, organic, paid, partner, and withdrawal permissions.
-69. Approve camera/storage equipment, restricted asset repository, backup/retention/deletion rules, release language, GPS stripping process, and whether crews may capture during normal work.
-70. Confirm owner/crew on-camera willingness, realistic weekly filming/editing/reply time, approved brand font/color/logo assets, pronunciation/style preferences, and accessible caption standard.
-71. Approve exact social lead paths, monitored hours, response expectations, service-area/minimum qualification language, complaint escalation, employment/vendor/collaboration channels, and CRM social-source fields.
-72. Identify a qualified reviewer and acceptable sources for historic-building, species, heart-pine, product, finish, cure, odor, safety, moisture, and commercial claims before those content categories leave hold.
-73. Confirm the current official account ownership/2FA/roles and assign an operator to validate platform formats, music/rights, paid-use, disclosure, GBP-post, metrics/export, and moderation rules before any live use.
-74. Decide whether Eating With Cait and Lagniappe Social Co. may be considered for production advice or future introductions, define any actual relationship/financial conflicts, and approve role, disclosure, data, rights, and brand-separation boundaries before contact.
-75. Approve whether any pricing ranges, scheduling windows, customer reviews/reactions, named properties, commercial cases, contractor relationships, or hospitality projects may enter the content queue, with exact proof and permission records.
-76. Approve or revise the Phase 8 pursue/build-proof/hold/no-chase segment priorities and name the first permissioned warm, past, supplier and trade relationships eligible for internal account research; this does not authorize contact.
-77. Confirm B2B service geography, project minimums, current estimating/site-walk/crew capacity, bid turnaround policy, schedule-hold policy and the owner who declares weekly capacity.
-78. Approve bid/no-bid rules, proposal validity/allowance/exclusion standards, change authorization, closeout, care and warranty language; identify qualified contract/legal review.
-79. Verify the exact legal entity, public business contacts, services, equipment, finish systems, licensing, insurance, safety records, commercial/historic capability and coverage language that may appear in either capability statement.
-80. Identify permissioned contractor and commercial projects, references, quotes, photos and documentation; state allowed identity, location detail, channels, expiration and revocation process for each.
-81. Confirm current availability and secure owners for W-9, COI/additional-insured process, vendor forms, PO/billing, lien waivers, safety, badging/background checks, product data, SDS, maintenance, licensing and bonding only if actually applicable.
-82. Approve acceptable contract, payment, retainage, lien, insurance, indemnity, pay-if-paid, credit and concentration boundaries, plus the person authorized to no-bid or stop work; obtain qualified advice where required.
-83. Approve the provisional account-scoring weights, tier rules, portfolio-count recommendations, stage idle periods and first-sprint account-count ranges after capacity review.
-84. Approve the future lawful outreach policy by channel: public-business versus permissioned data, calling/texting/email rules, opt-out/suppression, monitored hours, owners, frequency caps and record retention; approval still does not authorize a send.
-85. Select the secure system of record and owners for accounts, opportunities, activities, documents and accounting reconciliation; approve field definitions, access, retention and migration. No CRM is connected in Phase 8.
-86. Define owner-approved probability assumptions, revenue booking rule, gross-margin access/calculation, attribution window, decided-bid cohort and commercial pipeline target before weighted pipeline or coverage is reported.
-87. Confirm whether any referral fee, gift, reciprocal lead, supplier benefit or co-marketing arrangement is permitted, with legal review, disclosure, conflict and spend boundaries before it is offered.
-88. Select the interim Phase A lead register and long-term CRM evaluation owner; approve access, data ownership, backup, export, mobile and migration requirements.
-89. Define booked revenue, recognized revenue, deposits, retainage, refunds, change orders, direct job costs, gross profit and period-close approval with the business accountant or qualified finance reviewer.
-90. Assign accountable owners for lead lifecycle, source/campaign data, project status, finance reconciliation, data stewardship, analytics administration and automation approval.
-91. Approve normalized lead sources, qualification/disqualification/lost reasons, residential and B2B stage definitions, maximum idle periods and reopening rules.
-92. Approve lead-response hours, first-human-response definition, missed-call ownership, routing fallback and escalation thresholds; automated acknowledgements will not count as human response.
-93. Decide the CRM category, call-tracking vendor, website platform/form backend, estimate scheduling process and analytics system ownership after current feature/security/pricing validation.
-94. Approve the primary-source attribution default, referral rules, offline evidence hierarchy, conflict resolution and Unknown-source correction workflow.
-95. Approve data retention, consent, role access, backup/recovery objectives, incident ownership and whether any real internal extracts may be processed outside Git.
-96. Approve thresholds for alerts, anomalies, stale opportunities, high-value commercial inquiries, margin variance, payment delay and service-area leakage; none are active.
-97. Approve each customer-facing or external automation separately, including content, consent, timing, recipient, suppression, failure fallback, audit retention and kill switch.
-98. Confirm current source availability and authorized read-only access path for Ads, GBP, Search Console, analytics, social, review, call, CRM, invoicing/payment and job-cost records; never provide credentials in Git.
-99. Approve the CRM scorecard weights and commission dated verification of current features, pricing, security, API/export and contract terms before selecting a vendor.
+### 4. Technical implementation
+- Choose production-page path, form backend and secure upload policy, spam protection, call tracking, analytics/GTM, CRM/interim register, routing, consent, backup, deployment and rollback owners.
+
+### 5. Business operations
+- Define estimate scheduling, eligible/poor-fit work, travel, job/estimate capacity, bid/no-bid, response/escalation, pause authority, warranties/care and commercial vendor/process readiness.
+
+### 6. Proof and permissions
+- Inventory and permission-scope real projects, reviews, customers/properties/crew, paid/organic/B2B use, locations, references, credentials, brand files and withdrawal/expiry evidence in the launch registers.
+
+### 7. Legal or compliance
+- Obtain qualified review for privacy/consent, calls/recording, contact and review workflows, releases, advertising/platform rules, licensing/insurance/warranty wording, outreach, referral arrangements and commercial contract/vendor obligations where applicable.
+
+### 8. Platform validation
+- Assign operators to validate current Ads/Editor, GBP, GA4/GTM/Search Console, Meta/social, CRM/form/call features and policies from official sources and owner-controlled UIs; retain dated evidence.
+
+### 9. Budget
+- Enter approved monthly/daily/account/campaign hard ceilings; identify billing owner; define spending and pause authority. Supply real planning/economic inputs if available. No amount is inferred.
+
+### 10. Staffing and capacity
+- Name primary/backup responders, estimator, scheduler, crew-capacity reporter, content/capture/editor/reviewer roles, technical/measurement/data owners and complaint/incident escalation owners; state realistic weekly limits.
+
+### 11. Sales and lead handling
+- Approve qualified/disqualified definitions, response hours, first-human-response rule, call/form/DM routing, missed-call recovery, lifecycle stages, lost reasons, next-action discipline, estimate/proposal follow-up and warm B2B scope.
+
+### 12. Analytics and finance
+- Define source attribution, lead/click identifier use, duplicates/spam/tests, booked/recognized revenue, deposits/refunds/change orders/retainage, direct job costs, gross profit, reconciliation cadence, corrections, access and data retention with qualified finance/privacy input.
+
+## Completion rule
+
+A category is not complete because it was discussed. The applicable register must contain the approved value, accountable owner, date, non-secret evidence location and status. P0 items must pass before paid launch; later channel-specific items may remain explicitly held.
